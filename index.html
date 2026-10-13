@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>光遇每日任务</title>
+<meta name="theme-color" content="#0f1116">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="光遇任务">
+<style>
+  :root{
+    --bg:#0f1116; --card:#191c24; --card2:#1f232c; --line:#262b36;
+    --text:#e2e8f0; --muted:#8b949e; --accent:#7ac0ff; --accent2:#ffc478;
+    --good:#56d392; --warn:#f0b45a; --bad:#f06e6e;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent}
+  html,body{margin:0; padding:0; background:var(--bg); color:var(--text);
+    font-family:"Microsoft YaHei UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",system-ui,sans-serif;
+    -webkit-text-size-adjust:100%;
+    /* 关掉滚动锚定：否则上方图片懒加载变高时，浏览器会把视图自动往下推 */
+    overflow-anchor:none;}
+  body{padding-bottom:env(safe-area-inset-bottom)}
+  header{position:sticky; top:0; z-index:10; background:rgba(21,24,31,.96);
+    backdrop-filter:saturate(180%) blur(12px); border-bottom:1px solid var(--line);
+    padding:14px 16px calc(12px + env(safe-area-inset-top)) 16px;}
+  h1{margin:0; font-size:20px; letter-spacing:.5px}
+  .meta{margin-top:6px; font-size:11.5px; color:var(--muted); line-height:1.6}
+  .status{margin-top:6px; font-size:13px; font-weight:700; color:var(--good)}
+  .status.warn{color:var(--warn)}
+  .status.bad{color:var(--bad)}
+  .btns{display:flex; gap:8px; margin-top:10px; flex-wrap:wrap}
+  button{flex:0 0 auto; background:#212632; color:var(--text); border:1px solid var(--line);
+    border-radius:10px; padding:9px 14px; font-size:13.5px; font-family:inherit; cursor:pointer}
+  button:active{background:#2b3140}
+  main{max-width:780px; margin:0 auto; padding:14px 12px 40px}
+  .banner{background:#3a2c17; border:1px solid #6b5227; color:#ffd79a; border-radius:12px;
+    padding:11px 13px; font-size:12.5px; line-height:1.65; margin-bottom:12px}
+  .card{background:var(--card); border-radius:14px; padding:15px 14px; margin-bottom:12px; overflow-anchor:none}
+  .card.warn{background:#2a2113; border:1px solid #6b5227}
+  .card h2{margin:0 0 10px; font-size:15.5px; color:var(--accent); font-weight:700; line-height:1.5}
+  .card.archive h2{color:var(--muted)}
+  .card h3{margin:14px 0 6px; font-size:14.5px; color:var(--accent2); font-weight:700; line-height:1.5}
+  .card p{margin:0 0 8px; font-size:14.5px; line-height:1.75; word-break:break-word; white-space:pre-wrap}
+  .card.tasks p{font-size:19px; font-weight:700; margin-bottom:10px; color:#dee9f8; letter-spacing:.3px}
+  .card p.note{font-size:12.5px; color:var(--warn); line-height:1.65}
+  .card img{display:block; width:100%; height:auto; border-radius:10px; margin:8px 0 12px;
+    background:#22262f; cursor:zoom-in}
+  footer{max-width:780px; margin:0 auto; padding:0 14px 30px; color:var(--muted); font-size:11.5px; line-height:1.8}
+  footer a{color:var(--accent); text-decoration:none}
+  .skel{color:var(--muted); text-align:center; padding:50px 20px; font-size:14px; line-height:2}
+  .toast{position:fixed; left:50%; bottom:34px; transform:translateX(-50%); background:#2b3140;
+    color:#fff; padding:10px 18px; border-radius:20px; font-size:13px; opacity:0; transition:opacity .25s;
+    pointer-events:none; z-index:50; border:1px solid var(--line)}
+  .toast.show{opacity:1}
+</style>
+</head>
+<body>
+<header>
+  <h1>光遇每日任务</h1>
+  <div class="meta" id="meta">加载中…</div>
+  <div class="status" id="status">正在获取数据…</div>
+  <div class="btns">
+    <button id="btnRefresh">刷新</button>
+    <button id="btnCopy">复制任务</button>
+    <button id="btnTop">回到顶部</button>
+  </div>
+</header>
+<main id="app"><div class="skel">正在加载今日数据…</div></main>
+<footer>
+  图片点一下用浏览器打开原图 · 手机上可用浏览器菜单「添加到主屏幕」当 App 用<br>
+  实时图文：<a href="https://www.9game.cn/skygy/" target="_blank" rel="noopener">9game 九游</a>　·　
+  天气/日历/活动：<a href="https://github.com/oivio-up/SkyDailyInfo" target="_blank" rel="noopener">SkyDailyInfo</a>　·　
+  存档：<a href="https://github.com/xiaoyanu/sky-auto" target="_blank" rel="noopener">sky-auto（已停更）</a>
+</footer>
+<div class="toast" id="toast"></div>
+
+<script>
+'use strict';
+// SNAPSHOT：由 parse.py 生成"单文件离线版"时会把 null 替换成内嵌数据，
+// 这样用 file:// 双击打开也能看（浏览器禁止 file:// 下 fetch 本地 json）。
+var SNAPSHOT = null;
+var data = null;
+var firstRender = true;
+var app = document.getElementById('app');
+var elMeta = document.getElementById('meta');
+var elStatus = document.getElementById('status');
+var elToast = document.getElementById('toast');
+
+function toast(msg){
+  elToast.textContent = msg;
+  elToast.classList.add('show');
+  setTimeout(function(){ elToast.classList.remove('show'); }, 1800);
+}
+
+function esc(s){ return s; }   // 统一用 textContent 赋值，天然防注入
+
+function render(d){
+  data = d;
+  app.innerHTML = '';
+  if (d.warnings && d.warnings.length){
+    var b = document.createElement('div');
+    b.className = 'banner';
+    b.textContent = '⚠ ' + d.warnings.join('\n⚠ ');
+    app.appendChild(b);
+  }
+
+  var frag = document.createDocumentFragment();
+  (d.sections || []).forEach(function(sec){
+    if (!sec.blocks || !sec.blocks.length) return;
+    var card = document.createElement('section');
+    card.className = 'card';
+    if (sec.kind === 'warn') card.className = 'card warn';
+    if (sec.kind === 'archive') card.className = 'card archive';
+    if (sec.kind === 'tasks') card.className = 'card tasks';
+
+    var h = document.createElement('h2');
+    h.textContent = sec.title;
+    card.appendChild(h);
+
+    sec.blocks.forEach(function(b){
+      var node;
+      if (b.t === 'img'){
+        node = document.createElement('img');
+        node.loading = 'lazy';
+        node.decoding = 'async';
+        node.src = b.v;
+        node.alt = sec.title;
+        node.addEventListener('click', function(){ window.open(b.v, '_blank', 'noopener'); });
+      } else if (b.t === 'head'){
+        node = document.createElement('h3');
+        node.textContent = b.v;
+      } else if (b.t === 'note'){
+        node = document.createElement('p');
+        node.className = 'note';
+        node.textContent = b.v;
+      } else {
+        node = document.createElement('p');
+        node.textContent = b.v;
+      }
+      card.appendChild(node);
+    });
+    frag.appendChild(card);
+  });
+  app.appendChild(frag);
+
+  // 顶部状态
+  var srcs = d.sources || [];
+  var today = d.today;
+  var anyStale = false, parts = [], statusWarn = false, statusBad = false;
+  srcs.forEach(function(s){
+    var label = ({A:'天气日历', C:'实时图文', B:'存档'})[s.key] || s.name;
+    var desc;
+    if (!s.ok){ desc = label + ' 不可用'; }
+    else if (s.content_date === today){ desc = label + ' ' + s.content_date; }
+    else {
+      // 非今日：显示"内容日期"（而不是抓取时间），避免看起来像刚更新
+      desc = label + ' ' + (s.content_date || s.updated || '?') + '（非今日内容）';
+      anyStale = true;
+    }
+    parts.push(desc);
+    if (!s.ok) statusWarn = true;
+  });
+
+  var okCount = srcs.filter(function(s){ return s.ok && s.content_date === today; }).length;
+  if (okCount > 0){
+    elStatus.textContent = '今日数据已就绪' + (anyStale ? '　⚠ 部分源非今日内容' : '');
+    elStatus.className = 'status' + (anyStale ? ' warn' : '');
+  } else {
+    elStatus.textContent = '上游还没更新今天的数据';
+    elStatus.className = 'status warn';
+  }
+  elMeta.textContent = parts.join('　·　') + '\n数据生成于 ' + (d.generated_at || '未知');
+
+  // 首次渲染后回到顶部（图片懒加载不会再把视图推走，这里只是兜底）
+  if (firstRender){ firstRender = false; window.scrollTo(0, 0); }
+}
+
+function tasksText(){
+  if (!data) return '';
+  var out = ['【今日旅行指南】'];
+  (data.sections || []).forEach(function(sec){
+    if (sec.kind !== 'tasks') return;
+    sec.blocks.forEach(function(b){ if (b.t === 'text') out.push(b.v); });
+  });
+  return out.join('\n');
+}
+
+function useSnapshot(why){
+  if (!SNAPSHOT){
+    app.innerHTML = '<div class="skel">没有可显示的数据<br>请把本文件与 data.json 放在一起用网址打开</div>';
+    elStatus.textContent = '无数据';
+    elStatus.className = 'status bad';
+    return;
+  }
+  render(SNAPSHOT);
+  elStatus.textContent = why + '（快照生成于 ' + (SNAPSHOT.generated_at || '未知') + '）';
+  elStatus.className = 'status warn';
+}
+
+function load(isManual){
+  if (isManual) elStatus.textContent = '正在刷新…';
+  // file:// 协议下浏览器禁止 fetch 本地文件，直接用内置快照
+  if (location.protocol === 'file:'){ useSnapshot('单文件离线模式'); return; }
+  fetch('data.json?t=' + Date.now(), { cache: 'no-store' })
+    .then(function(r){ if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+    .then(function(d){
+      render(d);
+      try { localStorage.setItem('skyData', JSON.stringify(d)); } catch(e){}
+      if (isManual) toast('已刷新');
+    })
+    .catch(function(err){
+      if (SNAPSHOT){ useSnapshot('取不到最新数据，显示内置快照'); return; }
+      var cached = null;
+      try { cached = localStorage.getItem('skyData'); } catch(e){}
+      if (cached){
+        render(JSON.parse(cached));
+        elStatus.textContent = '网络不可用，显示上次缓存的数据';
+        elStatus.className = 'status warn';
+      } else {
+        app.innerHTML = '<div class="skel">加载失败：' + err.message +
+          '<br>如果是双击打开的 html，请改用「单文件离线版」，或用 data.json 的网址访问</div>';
+        elStatus.textContent = '加载失败';
+        elStatus.className = 'status bad';
+      }
+    });
+}
+
+document.getElementById('btnRefresh').addEventListener('click', function(){ load(true); });
+document.getElementById('btnTop').addEventListener('click', function(){ window.scrollTo({top:0, behavior:'smooth'}); });
+document.getElementById('btnCopy').addEventListener('click', function(){
+  var t = tasksText();
+  if (!t) { toast('还没有任务数据'); return; }
+  if (navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(t).then(function(){ toast('任务已复制'); },
+      function(){ fallbackCopy(t); });
+  } else { fallbackCopy(t); }
+});
+function fallbackCopy(t){
+  var ta = document.createElement('textarea');
+  ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0';
+  document.body.appendChild(ta); ta.select();
+  try { document.execCommand('copy'); toast('任务已复制'); } catch(e){ toast('复制失败'); }
+  document.body.removeChild(ta);
+}
+
+// 从后台切回前台时自动刷新一次（当天数据可能已更新）
+document.addEventListener('visibilitychange', function(){
+  if (!document.hidden) load(false);
+});
+load(false);
+</script>
+</body>
+</html>
