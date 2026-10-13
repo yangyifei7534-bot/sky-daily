@@ -1,0 +1,44 @@
+name: 更新光遇每日任务数据
+
+on:
+  schedule:
+    # 北京时间 00:00-15:00 期间每 30 分钟跑一次（对应 UTC 16:00-07:00）
+    # 上游 9game 通常 10:30-11:20 发布当天图文，SkyDailyInfo 中午前后更新，多跑几次才能尽早拿到
+    - cron: '*/30 0-7,16-23 * * *'
+  workflow_dispatch:      # 也支持手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sky-web-update
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 生成 data.json
+        run: python parse.py
+
+      - name: 提交变化
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --staged --quiet; then
+            echo "数据无变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "更新光遇数据 $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')"
+          git push
