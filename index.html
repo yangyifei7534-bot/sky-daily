@@ -3,6 +3,9 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- 关键：166 图床（天气/日历/先祖攻略图）见到 Referer 就返回 403。
+     浏览器加载 <img> 时默认会带 Referer，所以必须全局禁用。 -->
+<meta name="referrer" content="no-referrer">
 <title>光遇每日任务</title>
 <meta name="theme-color" content="#0f1116">
 <link rel="manifest" href="manifest.webmanifest">
@@ -127,6 +130,7 @@ function render(d){
         node = document.createElement('img');
         node.loading = 'lazy';
         node.decoding = 'async';
+        node.referrerPolicy = 'no-referrer';   // 双保险：防止 166 图床因 Referer 返回 403
         node.src = b.v;
         node.alt = sec.title;
         node.addEventListener('click', function(){ window.open(b.v, '_blank', 'noopener'); });
