@@ -16,6 +16,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -25,26 +26,44 @@ URL_B = "https://raw.githubusercontent.com/xiaoyanu/sky-auto/main/README.md"
 URL_C_LIST = "https://www.9game.cn/skygy/"
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
 
+# Windows 控制台默认是 GBK，打印 ⚠ 之类字符会直接抛 UnicodeEncodeError 并让脚本非零退出。
+# 显式把标准输出改成 UTF-8，本地和 GitHub Actions 都安全。
+for _stream in (sys.stdout, sys.stderr):
+    if hasattr(_stream, "reconfigure"):
+        try:
+            _stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
 IMG_MD_RE = re.compile(r"!\[[^\]]*\]\((https?://[^)\s]+)\)")
 
 
 # ----------------------------------------------------------------- 工具
-def fetch(url, timeout=40):
-    req = urllib.request.Request(url, headers={
-        "User-Agent": UA,
-        "Accept": "*/*",
-        "Accept-Encoding": "identity",
-        "Accept-Language": "zh-CN,zh;q=0.9",
-    })
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        raw = r.read()
-        ct = r.headers.get("Content-Type", "") or ""
-        m = re.search(r"charset=([\w\-]+)", ct)
-        enc = m.group(1) if m else "utf-8"
+def fetch(url, timeout=40, tries=3):
+    """抓取页面。失败会重试——上游偶发 SSL/网络抖动不该让整个板块消失。"""
+    last = None
+    for i in range(tries):
         try:
-            return raw.decode(enc, errors="replace")
-        except LookupError:
-            return raw.decode("utf-8", errors="replace")
+            req = urllib.request.Request(url, headers={
+                "User-Agent": UA,
+                "Accept": "*/*",
+                "Accept-Encoding": "identity",
+                "Accept-Language": "zh-CN,zh;q=0.9",
+            })
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                raw = r.read()
+                ct = r.headers.get("Content-Type", "") or ""
+                m = re.search(r"charset=([\w\-]+)", ct)
+                enc = m.group(1) if m else "utf-8"
+                try:
+                    return raw.decode(enc, errors="replace")
+                except LookupError:
+                    return raw.decode("utf-8", errors="replace")
+        except Exception as ex:
+            last = ex
+            if i + 1 < tries:
+                time.sleep(1.5 * (i + 1))
+    raise last
 
 
 def text(v):
@@ -450,6 +469,39 @@ def main():
         if info.get("ok") and info.get("content_date") and info["content_date"] != today:
             info["stale"] = True
             warnings.append("%s 的内容日期是 %s，不是今天" % (info["name"], info["content_date"]))
+
+    # ---- 关键保护：某个源抓失败时，沿用上一次的板块，而不是把好数据换成残缺数据 ----
+    prev = None
+    try:
+        with open(OUT, "r", encoding="utf-8") as f:
+            prev = json.load(f)
+    except Exception:
+        prev = None
+    if isinstance(prev, dict):
+        for info, key in ((info_a, "A"), (info_c, "C"), (info_b, "B")):
+            if info.get("ok"):
+                continue
+            kept = [s for s in prev.get("sections", []) if s.get("src") == key]
+            if not kept:
+                continue
+            info["sections"] = kept
+            info["ok"] = True
+            info["stale"] = True
+            info["reused"] = True
+            for ps in prev.get("sources", []):
+                if ps.get("key") == key:
+                    info["content_date"] = ps.get("content_date") or info.get("content_date")
+                    info["updated"] = ps.get("updated") or info.get("updated")
+                    break
+            warnings.append("%s 本次抓取失败，已沿用上次数据（%s），等下次运行自动恢复"
+                            % (info["name"], info.get("content_date") or "时间未知"))
+
+    # 两个实时源都失败 → 不要覆盖，保留原文件（避免把整站变成空页）
+    if not info_a.get("ok") and not info_c.get("ok"):
+        print("⚠ 实时源（SkyDailyInfo / 9game）都抓取失败，保留原有 data.json 不覆盖")
+        for w in warnings:
+            print("  ⚠ %s" % w)
+        return 1
 
     # 标记每个板块的来源，供客户端上色/归类
     for sec in info_a.get("sections", []):
