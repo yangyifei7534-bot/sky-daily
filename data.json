@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14 03:31:33",
+ "generated_at": "2026-10-14 04:28:24",
  "today": "2026-10-14",
  "sources": [
   {
@@ -7,10 +7,9 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年10月13日 20:09:12",
-   "content_date": "2026-10-13",
-   "error": "",
-   "stale": true
+   "updated": "2026年10月14日 11:35:13",
+   "content_date": "2026-10-14",
+   "error": ""
   },
   {
    "key": "C",
@@ -33,28 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "SkyDailyInfo 的内容日期是 2026-10-13，不是今天"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 收集蓝色光芒"
+     "v": "1. 在巨兽荒原捕捉3个光点"
     },
     {
      "t": "text",
-     "v": "2. 向一位朋友招手"
+     "v": "2. 向一位玩家鞠躬"
     },
     {
      "t": "text",
-     "v": "3. 接受一位朋友的礼物"
+     "v": "3. 净化10株黑暗植物"
     },
     {
      "t": "text",
-     "v": "4. 帮助谦虚舞者"
+     "v": "4. 前往暮土重温隐秘幸存者的回忆"
     }
    ],
    "kind": "tasks",
@@ -269,7 +266,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "天气播报：大部分地区地区阴天多云，蝴蝶平原将会有冷却碎片降落"
+     "v": "天气播报：今日无碎片降落"
     }
    ],
    "src": "A"
@@ -279,19 +276,19 @@
    "blocks": [
     {
      "t": "head",
-     "v": "📍 每日任务－蓝色光芒"
+     "v": "📍 每日任务-在巨兽荒原捕捉3个光点"
     },
     {
      "t": "text",
-     "v": "【蓝色光芒】\n出现时机：\n1、当日的每日任务有“收集蓝色光芒”时\n2、接取了魔法季任务二时\n3、森灵日活动期间，当旅人任务解锁至“收集蓝色光芒 储备净水”时\n所在地图：霞谷溜冰场\n位置指引：进入溜冰场就可以看到蓝色光芒啦，但要注意它有时候会潜入水底哦\n今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－蓝色光芒"
+     "v": "【在巨兽荒原捕捉3个光点】\n1.先前往暮土大厅\n2.一直往前飞，穿过边陲荒漠\n3.到达巨兽荒原，能看到浮动的光点，触碰后可捕捉光点\n小精灵提醒您：\n1、巨兽荒原有冥龙盘旋，旅人们收集时请万分小心\n2、需要收集三个光点\n3、在收集过程中若光点消失，旅人可尝试重新进入地图\n图片指引：\n今日推荐：在暮土随机模仿小黑穿搭https://ds.163.com/feed/69a547218daa490c5d56a31e/?utm_content=f_ma75.jl.jlctPT.top.iko3m0&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在巨兽荒原捕捉3个光点"
     },
     {
      "t": "head",
-     "v": "📍 每日任务－帮助谦虚舞者"
+     "v": "📍 暮土-隐秘幸存者"
     },
     {
      "t": "text",
-     "v": "【每日任务－帮助谦虚舞者】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在圆梦村剧场找到谦虚舞者　｜　谦虚舞者在圆梦村需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在圆梦村剧场找到谦虚舞者；\n2、若旅人之前已收集过该先祖，任务会显示为：谦虚舞者在圆梦村需要帮助"
+     "v": "【暮土·隐秘幸存者】\n兑换装扮：脏辫发型、小心翼翼站姿、黑色斗篷、黑色镶边斗篷（黑色二级斗篷）\n先祖位置：穿过巨兽荒原，飞向中间山体的左下角，找到山洞，先祖在山洞中静候~\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20261014/f8cd2347ce850055685d3aa55763027632ca97e5.mp4\n今日推荐：在暮土随机模仿小黑穿搭https://ds.163.com/feed/69a547218daa490c5d56a31e/?utm_content=f_ma75.jl.jlctPT.top.iko3m0&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=暮土-隐秘幸存者"
     }
    ],
    "src": "A"
@@ -318,7 +315,7 @@
    "src": "B"
   },
   {
-   "title": "🗂️ 任务四：向一位朋友招手 0/1",
+   "title": "🗂️ 任务一：在霞谷的滑行比赛中捕捉浮动的光点 0/1",
    "blocks": [
     {
      "t": "note",
@@ -330,19 +327,23 @@
     },
     {
      "t": "text",
-     "v": "点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可"
+     "v": "靠近收集三个光点即可完成"
     },
     {
      "t": "head",
-     "v": "注：1～6级招手动作均可完成"
+     "v": "位置：霞谷 滑行赛道"
     },
     {
      "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260106_8aafd8f0602cf514c59b93fc26516bb0"
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_b66675efe26676574218ca86c2345529"
     },
     {
      "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260518_f04adc529e92fd1f82d458cf6c3f3279"
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_d5d9f422fce2fb4fcddae059706d5595"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_0a720f2be85727f1efe5aa669f18a657"
     }
    ],
    "kind": "archive",
