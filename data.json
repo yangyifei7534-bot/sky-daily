@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14 02:01:53",
+ "generated_at": "2026-10-14 03:31:33",
  "today": "2026-10-14",
  "sources": [
   {
@@ -15,13 +15,12 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12135704.html",
+   "list_label": "《光·遇》10.14每日任务攻略.",
    "ok": true,
-   "updated": "2026-10-13 10:52:31",
-   "content_date": "2026-10-13",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-10-14 11:21:11",
+   "content_date": "2026-10-14",
+   "error": ""
   },
   {
    "key": "B",
@@ -35,9 +34,7 @@
   }
  ],
  "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-10-13，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-10-13），等下次运行自动恢复"
+  "SkyDailyInfo 的内容日期是 2026-10-13，不是今天"
  ],
  "sections": [
   {
@@ -68,35 +65,51 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「收集蓝色光芒」霞谷溜冰场水底"
+     "v": "1、「在巨兽荒原追逐浮动光点」暮土四"
     },
     {
      "t": "text",
-     "v": "2、「向一位朋友招手」面向好友做招手动作"
+     "v": "龙图"
     },
     {
      "t": "text",
-     "v": "3、「接受一位朋友的礼物」收一颗心或心火"
+     "v": "，抓住三道光即可"
     },
     {
      "t": "text",
-     "v": "4、「谦虚舞者在圆梦村需要帮助任务」该任务要在收集表演季先祖【谦逊舞者】后才能完成。如果尚未收集，任务提示会变为“在圆梦村剧场找到谦逊舞者”，此时请先收集先祖后再按图示流程完成任务。"
+     "v": "2、「向一位玩家鞠躬」面向任意玩家做鞠躬动作"
+    },
+    {
+     "t": "text",
+     "v": "3、「净化10株黑暗植物」烧10瓣花"
+    },
+    {
+     "t": "text",
+     "v": "4、「在暮土重温先祖的美好回忆」暮土四龙图，中心最高"
+    },
+    {
+     "t": "text",
+     "v": "建筑"
+    },
+    {
+     "t": "text",
+     "v": "左下方洞内"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/a895774a4db44fb2886575e36765e2a0.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/a5606294818e4e47b5ff00b3149f8018.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/25359cdbc98f4b54a258571cc095e69c.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/4b3b9a9cafa2425aa99ee99e38cb7f99.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/2fc3a673b44242d0bb4a805d06cc4ef6.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/66d79a1433c646aabdacd7cd911ceb1c.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/dac6188e124140ffb4a8942741b43a6d.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/0776921c85eb4695a33daa99795bda77.png"
     }
    ],
    "src": "C"
@@ -106,19 +119,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "位置:云野图一"
-    },
-    {
-     "t": "text",
-     "v": "性质:黑石"
-    },
-    {
-     "t": "text",
-     "v": "时间:9:08-10:00、14:08-15:00、19:08-20:00"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/3e6c8adf97a44bedb3f19b1ab82ca2ea.png"
+     "v": "今日无落石"
     }
    ],
    "src": "C"
@@ -132,15 +133,7 @@
     },
     {
      "t": "text",
-     "v": "魔法工坊［遇境/"
-    },
-    {
-     "t": "text",
-     "v": "方舟"
-    },
-    {
-     "t": "text",
-     "v": "/云巢魔法商店]  常规"
+     "v": "魔法工坊［遇境/方舟/云巢魔法商店］ 常规"
     },
     {
      "t": "text",
@@ -170,11 +163,53 @@
    "blocks": [
     {
      "t": "text",
-     "v": "暮土"
+     "v": "禁阁"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/b46000e7166545938cc948010d8d8008.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/669117d7577648d78bd551d76a3a745e.png"
+    }
+   ],
+   "src": "C"
+  },
+  {
+   "title": "🎉 先祖复刻",
+   "blocks": [
+    {
+     "t": "text",
+     "v": "复刻先祖:追光季·静光学者"
+    },
+    {
+     "t": "text",
+     "v": "复刻时间:2026.10.15 早6:00 - 2026.10.19 午12:00"
+    },
+    {
+     "t": "text",
+     "v": "复刻物品:发光"
+    },
+    {
+     "t": "text",
+     "v": "灯泡"
+    },
+    {
+     "t": "text",
+     "v": "斗/三角额头纹面具，均可染色"
+    },
+    {
+     "t": "text",
+     "v": "预估兑换树"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/d02e4b8e96364dcc9375001305eaaca7.png"
+    },
+    {
+     "t": "text",
+     "v": "动作展示"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/bf606d78b2814912b6b576f0e3f4334f.gif"
     }
    ],
    "src": "C"
@@ -184,19 +219,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "活动"
-    },
-    {
-     "t": "text",
-     "v": "时间:2026.9.24 - 2026.10.14 23:59"
-    },
-    {
-     "t": "text",
-     "v": "今日可获得代币:5（发布/观看共享空间神坛）"
-    },
-    {
-     "t": "text",
-     "v": "包括今日在内，已获得代币:100+15（15为一次性代币）"
+     "v": "秋宵节最后一天"
     },
     {
      "t": "text",
@@ -204,7 +227,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/4e0decb5a7ac453f9e5147babe541ad2.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/2bbbf8781c4248b0a114cfb331bf9423.png"
     },
     {
      "t": "text",
@@ -212,17 +235,23 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/a1cf938153874434b571833c949841dc.png"
-    }
-   ],
-   "src": "C"
-  },
-  {
-   "title": "🎉 近期活动日历",
-   "blocks": [
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/f51c0416f6624887b81bb481fd702f38.png"
+    },
+    {
+     "t": "text",
+     "v": "『近期"
+    },
+    {
+     "t": "text",
+     "v": "活动"
+    },
+    {
+     "t": "text",
+     "v": "日历』"
+    },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/4545222f7eb9455d89957e2b05f23c42.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/3150ed0b3b8a42e8aa8334739a795fb5.png"
     },
     {
      "t": "text",
@@ -230,7 +259,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/13/2c8c197515dd405cb1fcebd77cfecdc5.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/4f19af817805437b87c3d791af954e64.png"
     }
    ],
    "src": "C"
