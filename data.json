@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16 03:32:41",
+ "generated_at": "2026-10-16 06:38:42",
  "today": "2026-10-16",
  "sources": [
   {
@@ -14,13 +14,12 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12140643.html",
+   "list_label": "《光·遇》10.16每日任务攻略！",
    "ok": true,
-   "updated": "2026-10-14 11:21:11",
-   "content_date": "2026-10-14",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-10-16 14:17:47",
+   "content_date": "2026-10-16",
+   "error": ""
   },
   {
    "key": "B",
@@ -33,10 +32,7 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-10-14），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
@@ -66,51 +62,35 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「在巨兽荒原追逐浮动光点」暮土四"
+     "v": "1、「接受一位朋友的礼物」收一颗心或心火"
     },
     {
      "t": "text",
-     "v": "龙图"
+     "v": "2、「在水母上恢复能量」完全耗空能量后靠近可回能水母"
     },
     {
      "t": "text",
-     "v": "，抓住三道光即可"
+     "v": "3、「向一位朋友招手」面向好友做招手动作"
     },
     {
      "t": "text",
-     "v": "2、「向一位玩家鞠躬」面向任意玩家做鞠躬动作"
-    },
-    {
-     "t": "text",
-     "v": "3、「净化10株黑暗植物」烧10瓣花"
-    },
-    {
-     "t": "text",
-     "v": "4、「在暮土重温先祖的美好回忆」暮土四龙图，中心最高"
-    },
-    {
-     "t": "text",
-     "v": "建筑"
-    },
-    {
-     "t": "text",
-     "v": "左下方洞内"
+     "v": "4、「点亮一位玩家玩家」抓一个小黑并和他点火"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/a5606294818e4e47b5ff00b3149f8018.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/16/3331d2ae8f224943bf60973c38d484b9.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/4b3b9a9cafa2425aa99ee99e38cb7f99.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/16/b997751ee8fa44d0bcdb64f600bad136.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/66d79a1433c646aabdacd7cd911ceb1c.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/16/0a1a265a22b446bea13c122004b625ea.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/0776921c85eb4695a33daa99795bda77.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/16/6727f1cc85444af0a17edd8bf16d09bf.png"
     }
    ],
    "src": "C"
@@ -120,7 +100,19 @@
    "blocks": [
     {
      "t": "text",
-     "v": "今日无落石"
+     "v": "位置:暮土沉船"
+    },
+    {
+     "t": "text",
+     "v": "性质:红石"
+    },
+    {
+     "t": "text",
+     "v": "时间:11:08-12:00、17:08-18:00、23:08-24:00"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/16/b798ddc579874f7893079e0af797dd17.png"
     }
    ],
    "src": "C"
@@ -134,7 +126,15 @@
     },
     {
      "t": "text",
-     "v": "魔法工坊［遇境/方舟/云巢魔法商店］ 常规"
+     "v": "魔法工坊［遇境/"
+    },
+    {
+     "t": "text",
+     "v": "方舟"
+    },
+    {
+     "t": "text",
+     "v": "/云巢魔法商店]  常规"
     },
     {
      "t": "text",
@@ -142,7 +142,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周二）光能药剂"
+     "v": "魔法:（每周五）大只佬、小不点"
     },
     {
      "t": "text",
@@ -154,7 +154,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还5天23小时59分。本周家具（每13周为一轮，这是第13/13周）:壁炉（25红）、长形浴池（45心）、正方镂空方块（10白）、圆形大地毯（90白）"
+     "v": "柜台每周一刷新，距离下次刷新还2天23小时59分。本周家具（每13周为一轮，这是第13/13周）:壁炉（25红）、长形浴池（45心）、正方镂空方块（10白）、圆形大地毯（90白）"
     }
    ],
    "src": "C"
@@ -164,11 +164,19 @@
    "blocks": [
     {
      "t": "text",
-     "v": "禁阁"
+     "v": "云野"
+    },
+    {
+     "t": "text",
+     "v": "雨林"
+    },
+    {
+     "t": "text",
+     "v": "霞谷"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/669117d7577648d78bd551d76a3a745e.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/16/f9a5deaa06714de5aee379b9ba51aff1.png"
     }
    ],
    "src": "C"
@@ -202,7 +210,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/d02e4b8e96364dcc9375001305eaaca7.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/16/7f27e133312145d7a9ff98735d3a295a.png"
     },
     {
      "t": "text",
@@ -210,33 +218,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/bf606d78b2814912b6b576f0e3f4334f.gif"
-    }
-   ],
-   "src": "C"
-  },
-  {
-   "title": "🎉 秋宵节",
-   "blocks": [
-    {
-     "t": "text",
-     "v": "秋宵节最后一天"
-    },
-    {
-     "t": "text",
-     "v": "每日代币获取方式"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/2bbbf8781c4248b0a114cfb331bf9423.png"
-    },
-    {
-     "t": "text",
-     "v": "一次性代币图解"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/f51c0416f6624887b81bb481fd702f38.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/16/8bf941ad913a4303b42257d16dc1ae2e.gif"
     },
     {
      "t": "text",
@@ -252,15 +234,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/3150ed0b3b8a42e8aa8334739a795fb5.png"
-    },
-    {
-     "t": "text",
-     "v": "附 秋宵节活动兑换树"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/14/4f19af817805437b87c3d791af954e64.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/16/0eebc7f0eae04a279d404dd22760f33f.png"
     }
    ],
    "src": "C"
