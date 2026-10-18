@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18 02:57:55",
+ "generated_at": "2026-10-18 03:28:07",
  "today": "2026-10-18",
  "sources": [
   {
@@ -7,10 +7,9 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年10月17日 11:02:06",
-   "content_date": "2026-10-17",
-   "error": "",
-   "stale": true
+   "updated": "2026年10月18日 11:04:29",
+   "content_date": "2026-10-18",
+   "error": ""
   },
   {
    "key": "C",
@@ -36,7 +35,6 @@
  ],
  "warnings": [
   "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-10-17，不是今天",
   "9game 九游 本次抓取失败，已沿用上次数据（2026-10-17），等下次运行自动恢复"
  ],
  "sections": [
@@ -45,19 +43,19 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1. 在密林遗迹冥想"
+     "v": "1. 在水母上回复能量"
     },
     {
      "t": "text",
-     "v": "2. 向一位玩家招手"
+     "v": "2. 净化10株黑暗植物"
     },
     {
      "t": "text",
-     "v": "3. 向一位玩家鞠躬"
+     "v": "3. 收集30点烛火"
     },
     {
      "t": "text",
-     "v": "4. 帮助火花家长"
+     "v": "4. 和朋友击掌"
     }
    ],
    "kind": "tasks",
@@ -238,7 +236,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "天气播报：今日无碎片降落"
+     "v": "天气播报：今日将会有灼热碎片坠落在圣岛"
     }
    ],
    "src": "A"
@@ -248,19 +246,11 @@
    "blocks": [
     {
      "t": "head",
-     "v": "📍 每日任务－在密林遗迹冥想"
+     "v": "📍 每日任务·在水母上恢复能量"
     },
     {
      "t": "text",
-     "v": "【每日任务－在密林遗迹冥想】\n任务：在密林遗迹冥想\n位置：在雨林－密林遗迹(雨林水母图)\n步骤：进入雨林后来到水母图(雨林第三幅地图)，往右前方的树洞走，穿越树洞后，飞向左前方的小亭子就能看到\n视频指引：\nhttps://ok.166.net/gameyw-gbox/bot/205/20260924/112a95542a4a21046d2292e540b771b0499b172c.mp4\n今日推荐：雨林清净挂机点推荐https://ds.163.com/feed/69d3896180948732849861fb/?utm_content=f_ma75.jl.jlctPT.top.0lokyf&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在密林遗迹冥想"
-    },
-    {
-     "t": "head",
-     "v": "📍 火花家长任务"
-    },
-    {
-     "t": "text",
-     "v": "【每日任务－帮助火花家长】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在霞谷神殿找到火花家长　｜　火花家长在云巢需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在霞谷神殿找到火花家长；\n2、若旅人之前已收集过该先祖，任务会显示为：火花家长在云巢需要帮助。\n今日推荐：夏之日头发这样穿就可以得到！https://ds.163.com/feed/6a7061c050c8bb3e2fce806b/?utm_content=f_ma75.jl.jlctPT.default.eescrx&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=火花家长任务"
+     "v": "【每日任务－在水母上恢复能量】\n位置：密林遗迹(水母图)\n步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母\n注意：几乎消耗完能量后再跳上水母会更容易完成任务哦\n今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量"
     }
    ],
    "src": "A"
@@ -287,7 +277,7 @@
    "src": "B"
   },
   {
-   "title": "🗂️ 任务四：向一位朋友招手 0/1",
+   "title": "🗂️ 任务二：收集30点烛火 0/30",
    "blocks": [
     {
      "t": "note",
@@ -299,19 +289,15 @@
     },
     {
      "t": "text",
-     "v": "点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可"
+     "v": "1.领取任务"
     },
     {
-     "t": "head",
-     "v": "注：1～6级招手动作均可完成"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260106_8aafd8f0602cf514c59b93fc26516bb0"
+     "t": "text",
+     "v": "2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可"
     },
     {
      "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260518_f04adc529e92fd1f82d458cf6c3f3279"
+     "v": "https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png"
     }
    ],
    "kind": "archive",
