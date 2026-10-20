@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20 02:25:55",
+ "generated_at": "2026-10-20 04:03:18",
  "today": "2026-10-20",
  "sources": [
   {
@@ -7,21 +7,19 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年10月19日 11:18:39",
-   "content_date": "2026-10-19",
-   "error": "",
-   "stale": true
+   "updated": "2026年10月20日 11:27:04",
+   "content_date": "2026-10-20",
+   "error": ""
   },
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12147922.html",
+   "list_label": "《光·遇》10.20每日任务攻略！",
    "ok": true,
-   "updated": "2026-10-19 12:20:09",
-   "content_date": "2026-10-19",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-10-20 10:58:32",
+   "content_date": "2026-10-20",
+   "error": ""
   },
   {
    "key": "B",
@@ -34,30 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-10-19，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-10-19），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 向一位玩家鞠躬"
+     "v": "1. 和朋友击掌"
     },
     {
      "t": "text",
-     "v": "2. 接受一位朋友的礼物"
+     "v": "2. 收集30点烛火"
     },
     {
      "t": "text",
-     "v": "3. 在荧光小菇旁回复能量"
+     "v": "3. 在水母上回复能量"
     },
     {
      "t": "text",
-     "v": "4. 前往暮土重温行礼船长的回忆"
+     "v": "4. 在禁阁的庇护所中捕捉3个光点"
     }
    ],
    "kind": "tasks",
@@ -68,43 +62,51 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「向一位玩家鞠躬」面向任意玩家做鞠躬动作"
+     "v": "1、「和朋友击掌」字面意义，也可和集结季向导完成"
     },
     {
      "t": "text",
-     "v": "2、「接受一位朋友的礼物」收一颗心或心火"
+     "v": "2、「收集30点烛光」"
     },
     {
      "t": "text",
-     "v": "3、「在"
+     "v": "3、「在水母上恢复能量」完全耗空能量后靠近可回能水母"
     },
     {
      "t": "text",
-     "v": "荧光"
-    },
-    {
-     "t": "text",
-     "v": "小菇恢复能量」完全没有能量后靠近荧光蘑菇"
-    },
-    {
-     "t": "text",
-     "v": "4、「在暮土重温先祖的美好回忆」暮土沉船，船体偏左位置背面"
+     "v": "4、「在禁阁庇护所追逐浮动光点」禁阁一层电梯旁进入庇护所，在庇护所内抓住三道光即可"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/19/87411a593cd045279f181b8a56ff1577.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/20/e0fc41c6837243c3bf703678864ce8ec.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/19/6bbf4309c74d48c89aaa7bef799be508.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/20/6a74243611284d1cb97b14b41f94b405.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/19/06c002c7e36a42c88a00dfeafd01689b.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/20/4af7c771fa274e0a98f1b8bcdf285163.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/19/ad3fe7f0f7ab42ecaf5640815bbdc60f.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/20/4f366a99ce2c4a92aa2042678b2dabc6.png"
+    },
+    {
+     "t": "text",
+     "v": "『近期"
+    },
+    {
+     "t": "text",
+     "v": "活动"
+    },
+    {
+     "t": "text",
+     "v": "日历』"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/20/ff512a79898c4a088439762f49743484.png"
     }
    ],
    "src": "C"
@@ -124,7 +126,15 @@
    "blocks": [
     {
      "t": "text",
-     "v": "双倍爱心进行中"
+     "v": "双倍"
+    },
+    {
+     "t": "text",
+     "v": "爱心"
+    },
+    {
+     "t": "text",
+     "v": "进行中"
     },
     {
      "t": "text",
@@ -144,7 +154,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周一）烟花魔法"
+     "v": "魔法:（每周二）光能药剂"
     },
     {
      "t": "text",
@@ -156,7 +166,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还6天23小时59分。本周家具（每13周为一轮，这是第1/13周）:小板凳（8白）、土灶台（35红）、瘦长镂空方块（11白）、单人床（24心）"
+     "v": "柜台每周一刷新，距离下次刷新还5天23小时59分。本周家具（每13周为一轮，这是第1/13周）:小板凳（8白）、土灶台（35红）、瘦长镂空方块（11白）、单人床（24心）"
     }
    ],
    "src": "C"
@@ -166,101 +176,33 @@
    "blocks": [
     {
      "t": "text",
-     "v": "霞谷"
+     "v": "暮土"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/19/554d8f2448164f54a39f8ae8cd8aa316.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/20/9b22e07f8bfd4613b2312d25c18b8e14.png"
     }
    ],
    "src": "C"
-  },
-  {
-   "title": "🎉 先祖复刻",
-   "blocks": [
-    {
-     "t": "text",
-     "v": "复刻先祖:追光季·静光学者"
-    },
-    {
-     "t": "text",
-     "v": "复刻时间:2026.10.15 早6:00 - 2026.10.19 午12:00"
-    },
-    {
-     "t": "text",
-     "v": "复刻物品:发光"
-    },
-    {
-     "t": "text",
-     "v": "灯泡"
-    },
-    {
-     "t": "text",
-     "v": "斗/三角额头纹面具，均可染色"
-    },
-    {
-     "t": "text",
-     "v": "预估兑换树"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/19/df9a59d413cf4408bc6bbb38a3d694a3.png"
-    },
-    {
-     "t": "text",
-     "v": "动作展示"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/19/37aef2eb242241f89bc3384f65070b0a.gif"
-    },
-    {
-     "t": "text",
-     "v": "『近期"
-    },
-    {
-     "t": "text",
-     "v": "活动"
-    },
-    {
-     "t": "text",
-     "v": "日历』"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/19/0452564dc78b4a049058ce8547e3dfcd.png"
-    }
-   ],
-   "src": "C"
-  },
-  {
-   "title": "🌤️ 天气预报",
-   "blocks": [
-    {
-     "t": "text",
-     "v": "天气播报：今日无碎片降落"
-    }
-   ],
-   "src": "A"
   },
   {
    "title": "📖 先祖位置攻略（补充）",
    "blocks": [
     {
      "t": "head",
-     "v": "📍 荧光小菇"
+     "v": "📍 每日任务·在水母上恢复能量"
     },
     {
      "t": "text",
-     "v": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇"
+     "v": "【每日任务－在水母上恢复能量】\n位置：密林遗迹(水母图)\n步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母\n注意：几乎消耗完能量后再跳上水母会更容易完成任务哦\n今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量"
     },
     {
      "t": "head",
-     "v": "📍 暮土-行礼船长"
+     "v": "📍 每日任务-在禁阁的庇护所中捕捉浮动的光点"
     },
     {
      "t": "text",
-     "v": "【暮土·行礼船长】\n先祖位置：解锁一个暮土先祖后，进入黑水港湾(沉船图)里，飞到沉船的残骸后面，即可看到先祖\n视频攻略：\nhttps://ok.166.net/gameyw-gbox/bot/205/20260511/8736af761b3e2a81e9552aaebfd895acfc1e0135.mp4\n兑换图鉴：\n今日推荐：在暮土随机模仿小黑穿搭https://ds.163.com/feed/69a547218daa490c5d56a31e/?utm_content=f_ma75.jl.jlctPT.top.iko3m0&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=暮土-行礼船长"
+     "v": "【在禁阁的庇护所中捕捉浮动的光点】\n1、前往禁阁大厅，进入庇护所\n2、进入庇护所后往前走，浮动的光点就在前方飞\n3、触碰后可捕捉光点\n小精灵提醒您：\n1、进入庇护前所需要收集一位禁阁常驻先祖\n2、需要收集三个光点\n3、在收集过程中若光点消失，旅人可尝试重新进入地图\n图片指引：\n视频攻略：\nhttps://ok.166.net/gameyw-gbox/bot/205/20260602/919392b7a3b7551d676e57f0601985813868d58a.mp4\n今日推荐：在禁阁的庇护所中捕捉浮动的光点-视频指引https://ds.163.com/feed/6972cce3d085d23f35829c38?utm_content=f_ma75.jl.jlctPT.default.a146im&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在禁阁的庇护所中捕捉浮动的光点"
     }
    ],
    "src": "A"
@@ -284,6 +226,68 @@
      "v": "存档源 sky-auto 表面上每天照常提交，但它的上游 KOL「Sky孤独旅人」已于 2026-06-30 宣布停止每日更新，图文从那天起就没变过。下面只保留与今日任务名称匹配的攻略和固定参考；季节蜡烛 / 大蜡烛 / 免费魔法等每天会变的内容已自动隐藏。"
     }
    ],
+   "src": "B"
+  },
+  {
+   "title": "🗂️ 任务一：在霞谷的滑行比赛中捕捉浮动的光点 0/1",
+   "blocks": [
+    {
+     "t": "note",
+     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
+    },
+    {
+     "t": "text",
+     "v": "完成方法："
+    },
+    {
+     "t": "text",
+     "v": "靠近收集三个光点即可完成"
+    },
+    {
+     "t": "head",
+     "v": "位置：霞谷 滑行赛道"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_b66675efe26676574218ca86c2345529"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_d5d9f422fce2fb4fcddae059706d5595"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_0a720f2be85727f1efe5aa669f18a657"
+    }
+   ],
+   "kind": "archive",
+   "src": "B"
+  },
+  {
+   "title": "🗂️ 任务二：收集30点烛火 0/30",
+   "blocks": [
+    {
+     "t": "note",
+     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
+    },
+    {
+     "t": "text",
+     "v": "完成方法："
+    },
+    {
+     "t": "text",
+     "v": "1.领取任务"
+    },
+    {
+     "t": "text",
+     "v": "2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png"
+    }
+   ],
+   "kind": "archive",
    "src": "B"
   },
   {
