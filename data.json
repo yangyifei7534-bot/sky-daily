@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21 02:27:03",
+ "generated_at": "2026-10-21 04:03:25",
  "today": "2026-10-21",
  "sources": [
   {
@@ -7,10 +7,9 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年10月20日 11:27:04",
-   "content_date": "2026-10-20",
-   "error": "",
-   "stale": true
+   "updated": "2026年10月21日 11:21:58",
+   "content_date": "2026-10-21",
+   "error": ""
   },
   {
    "key": "C",
@@ -33,28 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "SkyDailyInfo 的内容日期是 2026-10-20，不是今天"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 和朋友击掌"
+     "v": "1. 在云野的锦鲤池旁冥想"
     },
     {
      "t": "text",
-     "v": "2. 收集30点烛火"
+     "v": "2. 在荧光小菇旁回复能量"
     },
     {
      "t": "text",
-     "v": "3. 在水母上回复能量"
+     "v": "3. 向一位朋友做个动作"
     },
     {
      "t": "text",
-     "v": "4. 在禁阁的庇护所中捕捉3个光点"
+     "v": "4. 帮助苦修行者"
     }
    ],
    "kind": "tasks",
@@ -213,23 +210,41 @@
    "src": "C"
   },
   {
+   "title": "🌤️ 天气预报",
+   "blocks": [
+    {
+     "t": "text",
+     "v": "天气播报：今日将会有冷却碎片坠落在远古战场"
+    }
+   ],
+   "src": "A"
+  },
+  {
    "title": "📖 先祖位置攻略（补充）",
    "blocks": [
     {
      "t": "head",
-     "v": "📍 每日任务·在水母上恢复能量"
+     "v": "📍 每日任务－在云野的锦鲤池旁冥想"
     },
     {
      "t": "text",
-     "v": "【每日任务－在水母上恢复能量】\n位置：密林遗迹(水母图)\n步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母\n注意：几乎消耗完能量后再跳上水母会更容易完成任务哦\n今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量"
+     "v": "【每日任务－在云野的锦鲤池旁冥想】\n任务：在云野的锦鲤池旁冥想\n位置：云野－三塔图－锦鲤池\n步骤：进入云野三塔图后往终点方向飞，找到小桥，在小桥旁即可找到\n视频指引\nhttps://ok.166.net/gameyw-gbox/bot/205/20261020/11d9992f5b77ceb4e566d5c8129f96e0c561d019.mp4\n今日推荐：《想你时风起》琴谱分享https://ds.163.com/feed/69ca579a348f8f5d0b7821ca/?utm_content=f_ma75.jl.jlctPT.top.8gq3ek&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在云野的锦鲤池旁冥想"
     },
     {
      "t": "head",
-     "v": "📍 每日任务-在禁阁的庇护所中捕捉浮动的光点"
+     "v": "📍 荧光小菇"
     },
     {
      "t": "text",
-     "v": "【在禁阁的庇护所中捕捉浮动的光点】\n1、前往禁阁大厅，进入庇护所\n2、进入庇护所后往前走，浮动的光点就在前方飞\n3、触碰后可捕捉光点\n小精灵提醒您：\n1、进入庇护前所需要收集一位禁阁常驻先祖\n2、需要收集三个光点\n3、在收集过程中若光点消失，旅人可尝试重新进入地图\n图片指引：\n视频攻略：\nhttps://ok.166.net/gameyw-gbox/bot/205/20260602/919392b7a3b7551d676e57f0601985813868d58a.mp4\n今日推荐：在禁阁的庇护所中捕捉浮动的光点-视频指引https://ds.163.com/feed/6972cce3d085d23f35829c38?utm_content=f_ma75.jl.jlctPT.default.a146im&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在禁阁的庇护所中捕捉浮动的光点"
+     "v": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇"
+    },
+    {
+     "t": "head",
+     "v": "📍 苦修行者任务"
+    },
+    {
+     "t": "text",
+     "v": "【每日任务－帮助苦修行者】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在云峰找到苦修行者　｜　苦修行者在云巢需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在云峰找到苦修行者；\n2、若旅人之前已收集过该先祖，任务会显示为：苦修行者在仙乡需要帮助。\n今日推荐： 光崽干饭图鉴！九种类型你属于哪种？https://ds.163.com/feed/69e6189fd0179a4476925567/?utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_content=f_ma75.jl.jlctPT.default.pzzzyt&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=苦修行者任务"
     }
    ],
    "src": "A"
@@ -253,68 +268,6 @@
      "v": "存档源 sky-auto 表面上每天照常提交，但它的上游 KOL「Sky孤独旅人」已于 2026-06-30 宣布停止每日更新，图文从那天起就没变过。下面只保留与今日任务名称匹配的攻略和固定参考；季节蜡烛 / 大蜡烛 / 免费魔法等每天会变的内容已自动隐藏。"
     }
    ],
-   "src": "B"
-  },
-  {
-   "title": "🗂️ 任务一：在霞谷的滑行比赛中捕捉浮动的光点 0/1",
-   "blocks": [
-    {
-     "t": "note",
-     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
-    },
-    {
-     "t": "text",
-     "v": "完成方法："
-    },
-    {
-     "t": "text",
-     "v": "靠近收集三个光点即可完成"
-    },
-    {
-     "t": "head",
-     "v": "位置：霞谷 滑行赛道"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260630_b66675efe26676574218ca86c2345529"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260630_d5d9f422fce2fb4fcddae059706d5595"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260630_0a720f2be85727f1efe5aa669f18a657"
-    }
-   ],
-   "kind": "archive",
-   "src": "B"
-  },
-  {
-   "title": "🗂️ 任务二：收集30点烛火 0/30",
-   "blocks": [
-    {
-     "t": "note",
-     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
-    },
-    {
-     "t": "text",
-     "v": "完成方法："
-    },
-    {
-     "t": "text",
-     "v": "1.领取任务"
-    },
-    {
-     "t": "text",
-     "v": "2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png"
-    }
-   ],
-   "kind": "archive",
    "src": "B"
   },
   {
