@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23 01:35:37",
+ "generated_at": "2026-10-23 04:04:56",
  "today": "2026-10-23",
  "sources": [
   {
@@ -7,21 +7,19 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年10月22日 11:20:29",
-   "content_date": "2026-10-22",
-   "error": "",
-   "stale": true
+   "updated": "2026年10月23日 11:25:42",
+   "content_date": "2026-10-23",
+   "error": ""
   },
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12156969.html",
+   "list_label": "《光·遇》10.23每日任务攻略.",
    "ok": true,
-   "updated": "2026-10-21 09:51:22",
-   "content_date": "2026-10-21",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-10-23 10:25:54",
+   "content_date": "2026-10-23",
+   "error": ""
   },
   {
    "key": "B",
@@ -34,30 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-10-22，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-10-21），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 在雨林神殿的栖光雨潭旁冥想"
+     "v": "1. 在雪隐峰捕捉浮动的光点"
     },
     {
      "t": "text",
-     "v": "2. 点亮一位玩家"
+     "v": "2. 向一位朋友招手"
     },
     {
      "t": "text",
-     "v": "3. 在水母上回复能量"
+     "v": "3. 掀翻5只螃蟹"
     },
     {
      "t": "text",
-     "v": "4. 帮助天才建筑师"
+     "v": "4. 前往霞谷重温回旋大师的回忆"
     }
    ],
    "kind": "tasks",
@@ -68,59 +62,43 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「在"
+     "v": "1、「在雪隐峰捕捉浮动光点」在霞谷雪隐峰找到带拖尾的光球，触碰光球即可，共三枚光球需要触碰"
     },
     {
      "t": "text",
-     "v": "锦鲤"
+     "v": "2、「向一位朋友招手」面向好友做招手动作"
     },
     {
      "t": "text",
-     "v": "池冥想」在云野神庙门口池塘右岸边的石碑前"
+     "v": "3、「掀翻5只"
     },
     {
      "t": "text",
-     "v": "光圈"
+     "v": "螃蟹"
     },
     {
      "t": "text",
-     "v": "处打坐并留言"
+     "v": "」在螃蟹周围长按自己大叫可掀翻螃蟹"
     },
     {
      "t": "text",
-     "v": "2、「在"
-    },
-    {
-     "t": "text",
-     "v": "荧光"
-    },
-    {
-     "t": "text",
-     "v": "小菇恢复能量」完全没有能量后靠近荧光蘑菇"
-    },
-    {
-     "t": "text",
-     "v": "3、「向一位朋友做动作」好友做任意动作"
-    },
-    {
-     "t": "text",
-     "v": "4、「苦修行者在云巢需要帮助」前往云巢沿小路走到头，从咖啡店右侧小门进入冥想空间，找到先祖开始任务并跟随蓝色星星指引完成"
+     "v": "4、「重温梦想季先祖“回旋大师”的会议」先祖位于霞谷圆梦村向导先祖旁边房子前"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/21/c06c62b26985460eb4221747147c2e0b.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/e506bcba43b543eab25ee29efeb96d2e.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/21/114d082d7fc147809b36f459586e5701.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/27afde51372246049b08af64f94d2f29.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/21/c43ca219135d4e39bbe724af1aa4973a.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/80f794725cf940f0beb91c2d3ca4ba05.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/21/d4c304be96a34dd5b80e80da65d4a4c5.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/72f129b7affa4ebe9be9576b852320a6.png"
     },
     {
      "t": "text",
@@ -136,7 +114,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/21/decb42eb63bf49c1a36670bb700c34ef.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/ada8764bffea4fa4a99b8c6fd38399f9.png"
     }
    ],
    "src": "C"
@@ -146,19 +124,19 @@
    "blocks": [
     {
      "t": "text",
-     "v": "位置:暮土终点图"
+     "v": "位置:云野右隐"
     },
     {
      "t": "text",
-     "v": "性质:黑石"
+     "v": "性质:红石"
     },
     {
      "t": "text",
-     "v": "时间:9:08-10:00、15:08-16:00、21:08-22:00"
+     "v": "时间:11:08-12:00、17:08-18:00、23:08-24:00"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/21/062b056900ab4554b89789645138063d.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/4b7cbb9563354d4e99f0be609939730d.png"
     }
    ],
    "src": "C"
@@ -168,11 +146,15 @@
    "blocks": [
     {
      "t": "text",
-     "v": "双倍爱心进行中"
+     "v": "魔法工坊［遇境/"
     },
     {
      "t": "text",
-     "v": "魔法工坊［遇境/方舟/云巢魔法商店]  常规"
+     "v": "方舟"
+    },
+    {
+     "t": "text",
+     "v": "/云巢魔法商店]  常规"
     },
     {
      "t": "text",
@@ -180,7 +162,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周三）璀璨之星"
+     "v": "魔法:（每周五）大只佬、小不点"
     },
     {
      "t": "text",
@@ -192,11 +174,21 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还4天23小时59分。"
-    },
+     "v": "柜台每周一刷新，距离下次刷新还2天23小时59分。本周家具（每13周为一轮，这是第1/13周）:小板凳（8白）、土灶台（35红）、瘦长镂空方块（11白）、单人床（24心）"
+    }
+   ],
+   "src": "C"
+  },
+  {
+   "title": "🎉 今日季节蜡烛位置",
+   "blocks": [
     {
      "t": "text",
-     "v": "本周家具（每13周为一轮，这是第1/13周）:小板凳（8白）、土灶台（35红）、瘦长镂空方块（11白）、单人床（24心）"
+     "v": "霞谷"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/ad1688ee961740da8bea0f5f2fdf2f9a.png"
     }
    ],
    "src": "C"
@@ -206,41 +198,59 @@
    "blocks": [
     {
      "t": "text",
-     "v": "禁阁"
+     "v": "云野"
+    },
+    {
+     "t": "text",
+     "v": "雨林"
+    },
+    {
+     "t": "text",
+     "v": "霞谷"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/21/29c128a2d3e445aa99ab206b8f4045b6.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/ebd0cd4ff0194c71a817336dd4536328.png"
     }
    ],
    "src": "C"
+  },
+  {
+   "title": "🌤️ 天气预报",
+   "blocks": [
+    {
+     "t": "text",
+     "v": "天气播报：今日将会有灼热碎片坠落在云顶浮石"
+    }
+   ],
+   "src": "A"
   },
   {
    "title": "📖 先祖位置攻略（补充）",
    "blocks": [
     {
      "t": "head",
-     "v": "📍 每日任务－在雨林的神庙内冥想"
+     "v": "📍 每日任务-在雪隐峰捕捉浮动的光点"
     },
     {
      "t": "text",
-     "v": "【每日任务－在雨林的神庙内冥想】\n任务：在雨林的神庙内冥想\n位置：在雨林－终点图树后方\n步骤：进入雨林的终点图后，往前走一点点，在右方的树后面\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260807/410e964288fbbe080f632e3f905af0922b15e866.mp4\n今日推荐：被小黑夸好看的一套穿搭https://ds.163.com/feed/6a8687baa7bb2e4de4aeb7a0/?utm_content=f_ma75.jl.jlctPT.top.bzefp4&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在雨林的神庙内冥想"
+     "v": "【在雪隐峰捕捉浮动的光点】\n1.进入霞谷后，往右走，前往圆梦村\n2.来到圆梦村后，往前走找到飞船站点\n3.点亮飞船站点的机关，召唤飞船\n4.乘坐飞船一路往上走即可来到雪隐峰\n5.到达雪隐峰后向前走，能看到浮动的光点，触碰后可捕捉光点\n小精灵提醒您：\n1、进入圆梦村需要收集一位暮土常驻先祖　　　　　>>>点击查看\n2、需要收集三个光点\n3、在收集过程中若光点消失，旅人可尝试重新进入地图\n图片指引：\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260807/020bae4fb35971d6064cb7d53b9d11263a505c9f.mp4\n今日推荐：《想你时风起》琴谱分享https://ds.163.com/feed/69ca579a348f8f5d0b7821ca/?utm_content=f_ma75.jl.jlctPT.top.8gq3ek&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-在雪隐峰捕捉浮动的光点"
     },
     {
      "t": "head",
-     "v": "📍 每日任务·在水母上恢复能量"
+     "v": "📍 掀螃蟹攻略"
     },
     {
      "t": "text",
-     "v": "【每日任务－在水母上恢复能量】\n位置：密林遗迹(水母图)\n步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母\n注意：几乎消耗完能量后再跳上水母会更容易完成任务哦\n今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量"
+     "v": "【掀螃蟹】\n在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。\n走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~\n今日推荐：梵高季小鞋子搭配推荐https://ds.163.com/feed/6a818b34ed602c039ee8c8c7/?utm_content=f_ma75.jl.jlctPT.top.lj344c&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略"
     },
     {
      "t": "head",
-     "v": "📍 每日任务-帮助天才建筑师"
+     "v": "📍 梦想季回旋大师路线"
     },
     {
      "t": "text",
-     "v": "【每日任务－帮助天才建筑师】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在风行网道找到天才建筑师　｜　天才建筑师在风行网道需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在风行网道找到天才建筑师；\n2、若旅人之前已收集过该先祖，任务会显示为：天才建筑师在风行网道需要帮助\n今日推荐：被小黑夸好看的一套穿搭https://ds.163.com/feed/6a8687baa7bb2e4de4aeb7a0/?utm_content=f_ma75.jl.jlctPT.top.bzefp4&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务-帮助天才建筑师"
+     "v": "【梦想季－回旋大师】\n先祖位置：霞谷·圆梦村\n小精灵提醒旅人：进入圆梦村需要收集一位暮土常驻先祖　　>>点击查看：暮土常驻先祖位置\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260803/5f3d827d12cad206c5d91ab787317a384e12e287.mp4\n今日推荐：《I Say Yeah》琴谱分享https://ds.163.com/feed/6a81c8d023fee73ea7424b76/?utm_content=f_ma75.jl.jlctPT.top.lqs9ot&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=梦想季回旋大师路线"
     },
     {
      "t": "head",
@@ -272,6 +282,72 @@
      "v": "存档源 sky-auto 表面上每天照常提交，但它的上游 KOL「Sky孤独旅人」已于 2026-06-30 宣布停止每日更新，图文从那天起就没变过。下面只保留与今日任务名称匹配的攻略和固定参考；季节蜡烛 / 大蜡烛 / 免费魔法等每天会变的内容已自动隐藏。"
     }
    ],
+   "src": "B"
+  },
+  {
+   "title": "🗂️ 任务一：在霞谷的滑行比赛中捕捉浮动的光点 0/1",
+   "blocks": [
+    {
+     "t": "note",
+     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
+    },
+    {
+     "t": "text",
+     "v": "完成方法："
+    },
+    {
+     "t": "text",
+     "v": "靠近收集三个光点即可完成"
+    },
+    {
+     "t": "head",
+     "v": "位置：霞谷 滑行赛道"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_b66675efe26676574218ca86c2345529"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_d5d9f422fce2fb4fcddae059706d5595"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_0a720f2be85727f1efe5aa669f18a657"
+    }
+   ],
+   "kind": "archive",
+   "src": "B"
+  },
+  {
+   "title": "🗂️ 任务四：向一位朋友招手 0/1",
+   "blocks": [
+    {
+     "t": "note",
+     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
+    },
+    {
+     "t": "text",
+     "v": "完成方法："
+    },
+    {
+     "t": "text",
+     "v": "点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可"
+    },
+    {
+     "t": "head",
+     "v": "注：1～6级招手动作均可完成"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260106_8aafd8f0602cf514c59b93fc26516bb0"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260518_f04adc529e92fd1f82d458cf6c3f3279"
+    }
+   ],
+   "kind": "archive",
    "src": "B"
   },
   {
