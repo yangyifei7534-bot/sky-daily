@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24 04:01:40",
+ "generated_at": "2026-10-24 07:14:05",
  "today": "2026-10-24",
  "sources": [
   {
@@ -14,13 +14,12 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12159769.html",
+   "list_label": "《光·遇》10.24每日任务攻略.",
    "ok": true,
-   "updated": "2026-10-23 10:25:54",
-   "content_date": "2026-10-23",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-10-24 12:45:33",
+   "content_date": "2026-10-24",
+   "error": ""
   },
   {
    "key": "B",
@@ -33,10 +32,7 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-10-23），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
@@ -66,59 +62,43 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「在雪隐峰捕捉浮动光点」在霞谷雪隐峰找到带拖尾的光球，触碰光球即可，共三枚光球需要触碰"
+     "v": "1、「在"
     },
     {
      "t": "text",
-     "v": "2、「向一位朋友招手」面向好友做招手动作"
+     "v": "荧光"
     },
     {
      "t": "text",
-     "v": "3、「掀翻5只"
+     "v": "小菇恢复能量」完全没有能量后靠近荧光蘑菇"
     },
     {
      "t": "text",
-     "v": "螃蟹"
+     "v": "2、「收集30点烛光」"
     },
     {
      "t": "text",
-     "v": "」在螃蟹周围长按自己大叫可掀翻螃蟹"
+     "v": "3、「接受一位朋友的礼物」收一颗心或心火"
     },
     {
      "t": "text",
-     "v": "4、「重温梦想季先祖“回旋大师”的会议」先祖位于霞谷圆梦村向导先祖旁边房子前"
+     "v": "4、「和陌生人坐在长椅上」字面意义"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/e506bcba43b543eab25ee29efeb96d2e.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/52e9ca3fca7f474abe65f540ab5eac8a.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/27afde51372246049b08af64f94d2f29.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/6f1fe84208904c258729464f29c768fb.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/80f794725cf940f0beb91c2d3ca4ba05.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/4e0cc7d9728a4206bcf2a07f15fa88ac.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/72f129b7affa4ebe9be9576b852320a6.png"
-    },
-    {
-     "t": "text",
-     "v": "『近期"
-    },
-    {
-     "t": "text",
-     "v": "活动"
-    },
-    {
-     "t": "text",
-     "v": "日历』"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/ada8764bffea4fa4a99b8c6fd38399f9.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/3a54c38779994a51b87dee1e1c9773c4.png"
     }
    ],
    "src": "C"
@@ -140,7 +120,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/4b7cbb9563354d4e99f0be609939730d.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/98ab9d1eaa1a4c54af43108e31c6fee2.png"
     }
    ],
    "src": "C"
@@ -166,7 +146,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周五）大只佬、小不点"
+     "v": "魔法:（每周六）长大成人、返老还童"
     },
     {
      "t": "text",
@@ -178,7 +158,33 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还2天23小时59分。本周家具（每13周为一轮，这是第1/13周）:小板凳（8白）、土灶台（35红）、瘦长镂空方块（11白）、单人床（24心）"
+     "v": "柜台每周一刷新，距离下次刷新还1天23小时59分。本周家具（每13周为一轮，这是第1/13周）:小板凳（8白）、土灶台（35红）、瘦长镂空方块（11白）、单人床（24心）"
+    }
+   ],
+   "src": "C"
+  },
+  {
+   "title": "🎉 恶作剧之日",
+   "blocks": [
+    {
+     "t": "text",
+     "v": "活动"
+    },
+    {
+     "t": "text",
+     "v": "时间:2026.10.24 00:00 - 2026.11.13 23:59"
+    },
+    {
+     "t": "text",
+     "v": "包含今日在内已获得代币:5+15（15为一次性代币）"
+    },
+    {
+     "t": "text",
+     "v": "每日5枚代币获取方式:完成每日活动玩法（今日任务:化身冥龙撞击螃蟹，从楼梯上去以后打坐参与）"
+    },
+    {
+     "t": "text",
+     "v": "一次性代币获取方式:完成小女巫的3个剧情任务"
     }
    ],
    "src": "C"
@@ -188,11 +194,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "霞谷"
+     "v": "暮土"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/ad1688ee961740da8bea0f5f2fdf2f9a.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/539cae3017eb411cbd04fcf4b04f5f22.png"
     }
    ],
    "src": "C"
@@ -210,11 +216,29 @@
     },
     {
      "t": "text",
-     "v": "霞谷"
+     "v": "暮土"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/23/ebd0cd4ff0194c71a817336dd4536328.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/5175a1771fba4f60af50ccabbf7d17d8.png"
+    }
+   ],
+   "src": "C"
+  },
+  {
+   "title": "🎉 近期活动日历",
+   "blocks": [
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/a85a9b76406a4479b8ff3294cf8c2b2e.png"
+    },
+    {
+     "t": "text",
+     "v": "附 恶作剧之日兑换树"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/972143393dd345c6b0d32dc61c5691ee.png"
     }
    ],
    "src": "C"
