@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25 05:58:34",
+ "generated_at": "2026-10-25 06:35:45",
  "today": "2026-10-25",
  "sources": [
   {
@@ -18,7 +18,7 @@
    "ok": true,
    "updated": "2026-10-24 12:45:33",
    "content_date": "2026-10-24",
-   "error": "<urlopen error _ssl.c:999: The handshake operation timed out>",
+   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
    "stale": true,
    "reused": true
   },
@@ -34,7 +34,7 @@
   }
  ],
  "warnings": [
-  "9game 抓取失败：<urlopen error _ssl.c:999: The handshake operation timed out>",
+  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
   "9game 九游 本次抓取失败，已沿用上次数据（2026-10-24），等下次运行自动恢复"
  ],
  "sections": [
