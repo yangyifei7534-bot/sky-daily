@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25 06:35:45",
+ "generated_at": "2026-10-25 16:23:44",
  "today": "2026-10-25",
  "sources": [
   {
@@ -14,29 +14,25 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12160415.html",
+   "list_label": "《光·遇》10.25每日任务攻略！",
    "ok": true,
-   "updated": "2026-10-24 12:45:33",
-   "content_date": "2026-10-24",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-10-25 10:27:31",
+   "content_date": "2026-10-25",
+   "error": ""
   },
   {
    "key": "B",
    "name": "sky-auto（已停更）",
    "url": "https://raw.githubusercontent.com/xiaoyanu/sky-auto/main/README.md",
    "ok": true,
-   "updated": "2026-10-25 09:06:44",
+   "updated": "2026-10-25 17:46:33",
    "content_date": "2026-06-30",
    "error": "",
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-10-24），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
@@ -90,19 +86,19 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/52e9ca3fca7f474abe65f540ab5eac8a.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/daef6d6deeda4dbb8d83ff8e3607d508.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/6f1fe84208904c258729464f29c768fb.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/8a7873f4cc6249fe8d3f04b1321c73b0.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/4e0cc7d9728a4206bcf2a07f15fa88ac.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/3bc1856f6f1f4dd79c23c525eb947bdd.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/3a54c38779994a51b87dee1e1c9773c4.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/83663a8b6f74449ab7a73fe8fae510c3.png"
     }
    ],
    "src": "C"
@@ -112,7 +108,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "位置:云野右隐"
+     "v": "位置:霞谷雪隐峰"
     },
     {
      "t": "text",
@@ -120,11 +116,11 @@
     },
     {
      "t": "text",
-     "v": "时间:11:08-12:00、17:08-18:00、23:08-24:00"
+     "v": "时间:7:08-8:00、13:08-14:00、19:08-20:00"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/98ab9d1eaa1a4c54af43108e31c6fee2.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/1751059a50df43e39b54cd5bef6d2ad2.png"
     }
    ],
    "src": "C"
@@ -134,15 +130,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "魔法工坊［遇境/"
-    },
-    {
-     "t": "text",
-     "v": "方舟"
-    },
-    {
-     "t": "text",
-     "v": "/云巢魔法商店]  常规"
+     "v": "魔法工坊［遇境/方舟/云巢魔法商店]  常规"
     },
     {
      "t": "text",
@@ -150,7 +138,15 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周六）长大成人、返老还童"
+     "v": "魔法:（每周日）绚丽"
+    },
+    {
+     "t": "text",
+     "v": "彩虹"
+    },
+    {
+     "t": "text",
+     "v": "、体型重塑"
     },
     {
      "t": "text",
@@ -162,7 +158,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还1天23小时59分。本周家具（每13周为一轮，这是第1/13周）:小板凳（8白）、土灶台（35红）、瘦长镂空方块（11白）、单人床（24心）"
+     "v": "柜台每周一刷新，距离下次刷新还0天23小时59分。本周家具（每13周为一轮，这是第1/13周）:小板凳（8白）、土灶台（35红）、瘦长镂空方块（11白）、单人床（24心）"
     }
    ],
    "src": "C"
@@ -180,15 +176,19 @@
     },
     {
      "t": "text",
-     "v": "包含今日在内已获得代币:5+15（15为一次性代币）"
-    },
-    {
-     "t": "text",
-     "v": "每日5枚代币获取方式:完成每日活动玩法（今日任务:化身冥龙撞击螃蟹，从楼梯上去以后打坐参与）"
+     "v": "包含今日在内已获得代币:10+15（15为一次性代币）"
     },
     {
      "t": "text",
      "v": "一次性代币获取方式:完成小女巫的3个剧情任务"
+    },
+    {
+     "t": "text",
+     "v": "每日5枚代币获取方式:完成每日活动玩法（今日任务:乌鸦保卫战，见图）"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/6fa62d41b5b84e3eae4cc9da87b3c6c3.png"
     }
    ],
    "src": "C"
@@ -198,11 +198,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "暮土"
+     "v": "禁阁"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/539cae3017eb411cbd04fcf4b04f5f22.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/ba955244d92341e1932542e121a7fb30.png"
     }
    ],
    "src": "C"
@@ -212,19 +212,15 @@
    "blocks": [
     {
      "t": "text",
-     "v": "云野"
-    },
-    {
-     "t": "text",
      "v": "雨林"
     },
     {
      "t": "text",
-     "v": "暮土"
+     "v": "暮土禁阁"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/5175a1771fba4f60af50ccabbf7d17d8.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/c7475e7528f84a99afe6ba85a795c712.png"
     }
    ],
    "src": "C"
@@ -234,7 +230,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/a85a9b76406a4479b8ff3294cf8c2b2e.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/82f81994781641a7a4b0a061d09764fa.png"
     },
     {
      "t": "text",
@@ -242,7 +238,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/24/972143393dd345c6b0d32dc61c5691ee.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/2d9a3a925fef4809b2ea15b5d2d98d19.png"
     }
    ],
    "src": "C"
