@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26 01:40:29",
+ "generated_at": "2026-10-26 03:29:54",
  "today": "2026-10-26",
  "sources": [
   {
@@ -7,21 +7,19 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年10月25日 11:15:15",
-   "content_date": "2026-10-25",
-   "error": "",
-   "stale": true
+   "updated": "2026年10月26日 11:16:34",
+   "content_date": "2026-10-26",
+   "error": ""
   },
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12161073.html",
+   "list_label": "《光·遇》10.26每日任务攻略.",
    "ok": true,
-   "updated": "2026-10-25 10:27:31",
-   "content_date": "2026-10-25",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-10-26 10:02:29",
+   "content_date": "2026-10-26",
+   "error": ""
   },
   {
    "key": "B",
@@ -34,30 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-10-25，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-10-25），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 和朋友击掌"
+     "v": "1. 在幽光山洞里冥想"
     },
     {
      "t": "text",
-     "v": "2. 在水母上回复能量"
+     "v": "2. 向一位朋友做个动作"
     },
     {
      "t": "text",
-     "v": "3. 向一位朋友招手"
+     "v": "3. 掀翻5只螃蟹"
     },
     {
      "t": "text",
-     "v": "4. 帮助鸣谢收藏家"
+     "v": "4. 前往云野重温旋转舞者的回忆"
     }
    ],
    "kind": "tasks",
@@ -68,43 +62,51 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「在"
+     "v": "1、「在云野幽光山洞"
     },
     {
      "t": "text",
-     "v": "荧光"
+     "v": "冥想"
     },
     {
      "t": "text",
-     "v": "小菇恢复能量」完全没有能量后靠近荧光蘑菇"
+     "v": "」在云野左侧隐藏图内的石碑前"
     },
     {
      "t": "text",
-     "v": "2、「收集30点烛光」"
+     "v": "光圈"
     },
     {
      "t": "text",
-     "v": "3、「接受一位朋友的礼物」收一颗心或心火"
+     "v": "处打坐并留言"
     },
     {
      "t": "text",
-     "v": "4、「和陌生人坐在长椅上」字面意义"
+     "v": "2、「向一位朋友做动作」好友做任意动作"
+    },
+    {
+     "t": "text",
+     "v": "3、「掀翻5只螃蟹」在螃蟹周围长按自己大叫可掀翻螃蟹"
+    },
+    {
+     "t": "text",
+     "v": "4、「音韵季先祖“旋转舞者”」云野右侧隐藏图入口平台下方"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/daef6d6deeda4dbb8d83ff8e3607d508.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/1bd51de01304424a970629ae0bf19e6b.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/8a7873f4cc6249fe8d3f04b1321c73b0.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/1331ef53667f40129214ca5f4e37cbed.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/3bc1856f6f1f4dd79c23c525eb947bdd.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/463af36ab56b444ca7fe2c6b6c489ebe.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/83663a8b6f74449ab7a73fe8fae510c3.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/e9addd083a7b4a7a9a137707d28152eb.png"
     }
    ],
    "src": "C"
@@ -114,19 +116,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "位置:霞谷雪隐峰"
-    },
-    {
-     "t": "text",
-     "v": "性质:红石"
-    },
-    {
-     "t": "text",
-     "v": "时间:7:08-8:00、13:08-14:00、19:08-20:00"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/1751059a50df43e39b54cd5bef6d2ad2.png"
+     "v": "今日无落石"
     }
    ],
    "src": "C"
@@ -136,7 +126,15 @@
    "blocks": [
     {
      "t": "text",
-     "v": "魔法工坊［遇境/方舟/云巢魔法商店]  常规"
+     "v": "魔法工坊［遇境/"
+    },
+    {
+     "t": "text",
+     "v": "方舟"
+    },
+    {
+     "t": "text",
+     "v": "/云巢魔法商店]  常规"
     },
     {
      "t": "text",
@@ -144,15 +142,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周日）绚丽"
-    },
-    {
-     "t": "text",
-     "v": "彩虹"
-    },
-    {
-     "t": "text",
-     "v": "、体型重塑"
+     "v": "魔法:（每周一）烟花魔法"
     },
     {
      "t": "text",
@@ -164,7 +154,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还0天23小时59分。本周家具（每13周为一轮，这是第1/13周）:小板凳（8白）、土灶台（35红）、瘦长镂空方块（11白）、单人床（24心）"
+     "v": "柜台每周一刷新，距离下次刷新还6天23小时59分。本周家具（每13周为一轮，这是第2/13周）:小靠背板凳（16白）、置物架（15红）"
     }
    ],
    "src": "C"
@@ -182,7 +172,7 @@
     },
     {
      "t": "text",
-     "v": "包含今日在内已获得代币:10+15（15为一次性代币）"
+     "v": "包含今日在内已获得代币:15+15（15为一次性代币）"
     },
     {
      "t": "text",
@@ -190,11 +180,7 @@
     },
     {
      "t": "text",
-     "v": "每日5枚代币获取方式:完成每日活动玩法（今日任务:乌鸦保卫战，见图）"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/6fa62d41b5b84e3eae4cc9da87b3c6c3.png"
+     "v": "每日5枚代币获取方式:完成每日活动玩法（今日任务:捕捉迷你螃蟹（注意是要捉比普通螃蟹小很多的迷你螃蟹！））"
     }
    ],
    "src": "C"
@@ -204,11 +190,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "禁阁"
+     "v": "云野"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/ba955244d92341e1932542e121a7fb30.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/11a92212ecbe491c8ad834ea3453e560.png"
     }
    ],
    "src": "C"
@@ -218,15 +204,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "雨林"
-    },
-    {
-     "t": "text",
-     "v": "暮土禁阁"
+     "v": "霞谷"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/c7475e7528f84a99afe6ba85a795c712.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/696d43f634764cc99567dc42b4281ab8.png"
     }
    ],
    "src": "C"
@@ -236,7 +218,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/82f81994781641a7a4b0a061d09764fa.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/24461cd582e541a183d2e241d6574074.png"
     },
     {
      "t": "text",
@@ -244,7 +226,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/25/2d9a3a925fef4809b2ea15b5d2d98d19.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/cad3b2039e404c7ab7b27189e14f2ba5.png"
     }
    ],
    "src": "C"
@@ -254,7 +236,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "天气播报：今日将会有灼热碎片坠落在雪隐峰"
+     "v": "天气播报：今日无碎片降落"
     }
    ],
    "src": "A"
@@ -264,19 +246,19 @@
    "blocks": [
     {
      "t": "head",
-     "v": "📍 每日任务·在水母上恢复能量"
+     "v": "📍 每日任务－在幽光山洞里冥想"
     },
     {
      "t": "text",
-     "v": "【每日任务－在水母上恢复能量】\n位置：密林遗迹(水母图)\n步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母\n注意：几乎消耗完能量后再跳上水母会更容易完成任务哦\n今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量"
+     "v": "【每日任务－在幽光山洞里冥想】\n任务：在幽光山洞里冥想\n位置：在云野－幽光山洞(左侧隐藏图)\n步骤：穿越云野大厅后，前往左侧隐藏门，进去后往洞口里飞就看到啦\n小精灵提醒旅人：进入幽光山洞地图需先收集2名晨岛先祖，3名云野先祖\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20261026/ae51dc240cab8a647369df41aaca54bdf4870041.mp4\n今日推荐：《I Say Yeah》琴谱分享https://ds.163.com/feed/6a81c8d023fee73ea7424b76/?utm_content=f_ma75.jl.jlctPT.top.lqs9ot&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在幽光山洞里冥想"
     },
     {
      "t": "head",
-     "v": "📍 鸣谢收藏家任务"
+     "v": "📍 音韵季旋转舞者路线"
     },
     {
      "t": "text",
-     "v": "【每日任务－帮助鸣谢收藏家】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在圣岛找到鸣谢收藏家　｜　鸣谢收藏家在云巢需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在圣岛找到鸣谢收藏家；\n2、若旅人之前已收集过该先祖，任务会显示为：鸣谢收藏家在云巢需要帮助。\n今日推荐：水果穿搭合集！https://ds.163.com/feed/6a05208388776b5fd2c24e59/?utm_content=f_ma75.jl.jlctPT.top.r8autn&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=鸣谢收藏家任务"
+     "v": "【音韵季旋转舞者路线】\n先祖位置：云野·云顶浮石\n视频指引：\nhttps://ok.166.net/gameyw-gbox/bot/205/20261023/a7e01102ad5878a48e91a4284dac8806cd155b6e.mp4\n2、若在指南位置找不到先祖，有可能是因为其他旅人正在收集，可重新进入地图再试试看～\n今日推荐：水果穿搭合集！https://ds.163.com/feed/6a05208388776b5fd2c24e59/?utm_content=f_ma75.jl.jlctPT.top.r8autn&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=音韵季旋转舞者路线"
     },
     {
      "t": "head",
@@ -308,37 +290,6 @@
      "v": "存档源 sky-auto 表面上每天照常提交，但它的上游 KOL「Sky孤独旅人」已于 2026-06-30 宣布停止每日更新，图文从那天起就没变过。下面只保留与今日任务名称匹配的攻略和固定参考；季节蜡烛 / 大蜡烛 / 免费魔法等每天会变的内容已自动隐藏。"
     }
    ],
-   "src": "B"
-  },
-  {
-   "title": "🗂️ 任务四：向一位朋友招手 0/1",
-   "blocks": [
-    {
-     "t": "note",
-     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
-    },
-    {
-     "t": "text",
-     "v": "完成方法："
-    },
-    {
-     "t": "text",
-     "v": "点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可"
-    },
-    {
-     "t": "head",
-     "v": "注：1～6级招手动作均可完成"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260106_8aafd8f0602cf514c59b93fc26516bb0"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260518_f04adc529e92fd1f82d458cf6c3f3279"
-    }
-   ],
-   "kind": "archive",
    "src": "B"
   },
   {
