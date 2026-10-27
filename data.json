@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27 00:39:55",
+ "generated_at": "2026-10-27 02:27:13",
  "today": "2026-10-27",
  "sources": [
   {
@@ -15,29 +15,26 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12162883.html",
+   "list_label": "《光·遇》10.27每日任务攻略！",
    "ok": true,
-   "updated": "2026-10-26 10:02:29",
-   "content_date": "2026-10-26",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-10-27 10:13:57",
+   "content_date": "2026-10-27",
+   "error": ""
   },
   {
    "key": "B",
    "name": "sky-auto（已停更）",
    "url": "https://raw.githubusercontent.com/xiaoyanu/sky-auto/main/README.md",
    "ok": true,
-   "updated": "2026-10-27 04:59:54",
+   "updated": "2026-10-27 10:02:15",
    "content_date": "2026-06-30",
    "error": "",
    "stale": true
   }
  ],
  "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-10-26，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-10-26），等下次运行自动恢复"
+  "SkyDailyInfo 的内容日期是 2026-10-26，不是今天"
  ],
  "sections": [
   {
@@ -68,51 +65,47 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「在云野幽光山洞"
+     "v": "1、「在"
     },
     {
      "t": "text",
-     "v": "冥想"
+     "v": "荧光"
     },
     {
      "t": "text",
-     "v": "」在云野左侧隐藏图内的石碑前"
+     "v": "小菇恢复能量」完全没有能量后靠近荧光蘑菇"
     },
     {
      "t": "text",
-     "v": "光圈"
+     "v": "2、「净化10株黑暗植物」烧10瓣花"
     },
     {
      "t": "text",
-     "v": "处打坐并留言"
+     "v": "3、「点亮一位玩家玩家」抓一个小黑并和他点火"
     },
     {
      "t": "text",
-     "v": "2、「向一位朋友做动作」好友做任意动作"
+     "v": "4、「在"
     },
     {
      "t": "text",
-     "v": "3、「掀翻5只螃蟹」在螃蟹周围长按自己大叫可掀翻螃蟹"
+     "v": "风行网"
     },
     {
      "t": "text",
-     "v": "4、「音韵季先祖“旋转舞者”」云野右侧隐藏图入口平台下方"
+     "v": "道捕捉浮动光点」在风行网道找到带拖尾的光球，触碰光球即可，共三枚光球需要触碰，找不到的话就轻点自己看蓝星星位置"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/1bd51de01304424a970629ae0bf19e6b.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/27/27a358bf9c0d46bd80d8e6586e9b81cf.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/1331ef53667f40129214ca5f4e37cbed.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/27/679cef1555654cae9b7bb9c63493efb8.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/463af36ab56b444ca7fe2c6b6c489ebe.png"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/e9addd083a7b4a7a9a137707d28152eb.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/27/3d8536c5794f44e7b4ae83d5b4de5ddb.png"
     }
    ],
    "src": "C"
@@ -132,15 +125,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "魔法工坊［遇境/"
-    },
-    {
-     "t": "text",
-     "v": "方舟"
-    },
-    {
-     "t": "text",
-     "v": "/云巢魔法商店]  常规"
+     "v": "魔法工坊［遇境/方舟/云巢魔法商店]  常规"
     },
     {
      "t": "text",
@@ -148,7 +133,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周一）烟花魔法"
+     "v": "魔法:（每周二）光能药剂"
     },
     {
      "t": "text",
@@ -160,7 +145,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还6天23小时59分。本周家具（每13周为一轮，这是第2/13周）:小靠背板凳（16白）、置物架（15红）"
+     "v": "柜台每周一刷新，距离下次刷新还5天23小时59分。本周家具（每13周为一轮，这是第2/13周）:小靠背板凳（16白）、置物架（15红）"
     }
    ],
    "src": "C"
@@ -178,7 +163,7 @@
     },
     {
      "t": "text",
-     "v": "包含今日在内已获得代币:15+15（15为一次性代币）"
+     "v": "包含今日在内已获得代币:20+15（15为一次性代币）"
     },
     {
      "t": "text",
@@ -186,7 +171,7 @@
     },
     {
      "t": "text",
-     "v": "每日5枚代币获取方式:完成每日活动玩法（今日任务:捕捉迷你螃蟹（注意是要捉比普通螃蟹小很多的迷你螃蟹！））"
+     "v": "每日5枚代币获取方式:完成每日活动玩法（今日任务:收集空中的黑影（开启任务后追光标就行，类似霞光城的先祖收集。）"
     }
    ],
    "src": "C"
@@ -196,11 +181,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "云野"
+     "v": "雨林"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/11a92212ecbe491c8ad834ea3453e560.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/27/a9446890bb314a4a82bc36d18dcdfd72.png"
     }
    ],
    "src": "C"
@@ -210,11 +195,45 @@
    "blocks": [
     {
      "t": "text",
-     "v": "霞谷"
+     "v": "暮土"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/696d43f634764cc99567dc42b4281ab8.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/27/5fa86c0ca716495d8380fe426165cd97.png"
+    }
+   ],
+   "src": "C"
+  },
+  {
+   "title": "🎉 先祖复刻",
+   "blocks": [
+    {
+     "t": "text",
+     "v": "复刻先祖:音韵季-献情演员"
+    },
+    {
+     "t": "text",
+     "v": "复刻时间:2026.10.29 06:00 - 2026.11.02 12:00（中午）"
+    },
+    {
+     "t": "text",
+     "v": "可兑换:带靴子的棉裤（上身/靴子可染色）、鸟喙面具"
+    },
+    {
+     "t": "text",
+     "v": "预估兑换树"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/27/d91284db023345668febe6afc0afaa97.png"
+    },
+    {
+     "t": "text",
+     "v": "动作展示"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/27/524062d1cf594151900e40e9058bcbd3.gif"
     }
    ],
    "src": "C"
@@ -224,7 +243,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/24461cd582e541a183d2e241d6574074.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/27/c4a2b00cd6644b3290038e188d7a76ca.png"
     },
     {
      "t": "text",
@@ -232,7 +251,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/26/cad3b2039e404c7ab7b27189e14f2ba5.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/10/27/d76ffd00f8d848208de3e86157d5e826.png"
     }
    ],
    "src": "C"
