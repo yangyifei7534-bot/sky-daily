@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30 03:42:13",
+ "generated_at": "2026-10-30 04:41:25",
  "today": "2026-10-30",
  "sources": [
   {
@@ -7,10 +7,9 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年10月29日 19:18:42",
-   "content_date": "2026-10-29",
-   "error": "",
-   "stale": true
+   "updated": "2026年10月30日 12:25:55",
+   "content_date": "2026-10-30",
+   "error": ""
   },
   {
    "key": "C",
@@ -33,28 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "SkyDailyInfo 的内容日期是 2026-10-29，不是今天"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 在巨兽荒原的神坛旁冥想"
+     "v": "1. 掀翻5只螃蟹"
     },
     {
      "t": "text",
-     "v": "2. 向一位朋友招手"
+     "v": "2. 在荧光小菇旁回复能量"
     },
     {
      "t": "text",
-     "v": "3. 收集30点烛火"
+     "v": "3. 净化10株黑暗植物"
     },
     {
      "t": "text",
-     "v": "4. 帮助苦修行者"
+     "v": "4. 前往禁阁重温祈祷侍从的回忆"
     }
    ],
    "kind": "tasks",
@@ -281,7 +278,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "天气播报：今日无碎片降落"
+     "v": "天气播报：今日将会有灼热碎片坠落在圆梦村"
     }
    ],
    "src": "A"
@@ -291,19 +288,27 @@
    "blocks": [
     {
      "t": "head",
-     "v": "📍 每日任务·巨兽荒原冥想"
+     "v": "📍 掀螃蟹攻略"
     },
     {
      "t": "text",
-     "v": "【每日任务－在巨兽荒原的神坛旁冥想】\n任务：在巨兽荒原的神坛旁冥想\n位置：暮土－巨兽荒原(四龙图)\n步骤：先进入暮土四龙图，往前飞，在下一个图的入口附近即可找到\n视频指引：\nhttps://ok.166.net/gameyw-gbox/bot/205/20260724/5b379b72d2cc6c5bf8229ffe577806b88b190086.mp4\n今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·巨兽荒原冥想"
+     "v": "【掀螃蟹】\n在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。\n走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~\n今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略"
     },
     {
      "t": "head",
-     "v": "📍 苦修行者任务"
+     "v": "📍 荧光小菇"
     },
     {
      "t": "text",
-     "v": "【每日任务－帮助苦修行者】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在云峰找到苦修行者　｜　苦修行者在云巢需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在云峰找到苦修行者；\n2、若旅人之前已收集过该先祖，任务会显示为：苦修行者在仙乡需要帮助。\n今日推荐：恶作剧之日魔女裙穿搭分享https://ds.163.com/feed/6adfbbc6ca8643644ab76386/?utm_content=f_ma75.jl.jlctPT.top.c9wnqq&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=苦修行者任务"
+     "v": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n今日推荐：雨林清净挂机点推荐https://ds.163.com/feed/69d3896180948732849861fb/?utm_content=f_ma75.jl.jlctPT.top.0lokyf&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇"
+    },
+    {
+     "t": "head",
+     "v": "📍 祈祷侍从"
+    },
+    {
+     "t": "text",
+     "v": "【禁阁·祈祷侍从】\n先祖位置：禁阁一楼四人门里\n如何进入：\n1.需先获得禁阁二层先祖的动作(气功动作)　　　>>>气功动作第一层，在升降台的右侧和小伙伴合力打开四人门\n3.先祖就在走廊的尽头安静等候~\n兑换图鉴：\n今日推荐：珍珠季水手服穿搭推荐https://ds.163.com/feed/6adc445c41ead961916265bd/?utm_content=f_ma75.jl.jlctPT.top.vvmmbt&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=祈祷侍从"
     },
     {
      "t": "head",
@@ -335,64 +340,6 @@
      "v": "存档源 sky-auto 表面上每天照常提交，但它的上游 KOL「Sky孤独旅人」已于 2026-06-30 宣布停止每日更新，图文从那天起就没变过。下面只保留与今日任务名称匹配的攻略和固定参考；季节蜡烛 / 大蜡烛 / 免费魔法等每天会变的内容已自动隐藏。"
     }
    ],
-   "src": "B"
-  },
-  {
-   "title": "🗂️ 任务二：收集30点烛火 0/30",
-   "blocks": [
-    {
-     "t": "note",
-     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
-    },
-    {
-     "t": "text",
-     "v": "完成方法："
-    },
-    {
-     "t": "text",
-     "v": "1.领取任务"
-    },
-    {
-     "t": "text",
-     "v": "2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png"
-    }
-   ],
-   "kind": "archive",
-   "src": "B"
-  },
-  {
-   "title": "🗂️ 任务四：向一位朋友招手 0/1",
-   "blocks": [
-    {
-     "t": "note",
-     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
-    },
-    {
-     "t": "text",
-     "v": "完成方法："
-    },
-    {
-     "t": "text",
-     "v": "点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可"
-    },
-    {
-     "t": "head",
-     "v": "注：1～6级招手动作均可完成"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260106_8aafd8f0602cf514c59b93fc26516bb0"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20260518_f04adc529e92fd1f82d458cf6c3f3279"
-    }
-   ],
-   "kind": "archive",
    "src": "B"
   },
   {
