@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29 16:46:49",
- "today": "2026-10-29",
+ "generated_at": "2026-10-30 00:43:29",
+ "today": "2026-10-30",
  "sources": [
   {
    "key": "A",
@@ -9,17 +9,19 @@
    "ok": true,
    "updated": "2026年10月29日 19:18:42",
    "content_date": "2026-10-29",
-   "error": ""
+   "error": "",
+   "stale": true
   },
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/12167830.html",
-   "list_label": "《光·遇》10.29每日任务攻略.",
+   "url": "https://www.9game.cn/skygy/",
    "ok": true,
    "updated": "2026-10-29 11:41:46",
    "content_date": "2026-10-29",
-   "error": ""
+   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
+   "stale": true,
+   "reused": true
   },
   {
    "key": "B",
@@ -32,7 +34,11 @@
    "stale": true
   }
  ],
- "warnings": [],
+ "warnings": [
+  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
+  "SkyDailyInfo 的内容日期是 2026-10-29，不是今天",
+  "9game 九游 本次抓取失败，已沿用上次数据（2026-10-29），等下次运行自动恢复"
+ ],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
