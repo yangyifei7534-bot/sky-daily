@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02 00:59:56",
+ "generated_at": "2026-11-02 04:29:54",
  "today": "2026-11-02",
  "sources": [
   {
@@ -15,13 +15,12 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12175634.html",
+   "list_label": "《光·遇》11.2每日任务攻略！",
    "ok": true,
-   "updated": "2026-11-01 11:06:39",
-   "content_date": "2026-11-01",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-11-02 10:42:03",
+   "content_date": "2026-11-02",
+   "error": ""
   },
   {
    "key": "B",
@@ -35,9 +34,7 @@
   }
  ],
  "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-11-01，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-11-01），等下次运行自动恢复"
+  "SkyDailyInfo 的内容日期是 2026-11-01，不是今天"
  ],
  "sections": [
   {
@@ -68,51 +65,35 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「拾起一只螃蟹」在螃蟹周围长按自己大叫掀翻螃蟹后，点击手掌图标将螃蟹抱起即可"
+     "v": "1、「点亮一位玩家玩家」抓一个小黑并和他点火"
     },
     {
      "t": "text",
-     "v": "2、「和陌生人坐在长椅上」字面意义"
+     "v": "2、「点燃20根蜡烛」点燃地图内任意20根蜡烛即可"
     },
     {
      "t": "text",
-     "v": "3、「在"
+     "v": "3、「和朋友击掌」字面意义，也可和集结季向导完成"
     },
     {
      "t": "text",
-     "v": "荧光"
-    },
-    {
-     "t": "text",
-     "v": "小菇恢复能量」完全没有能量后靠近荧光蘑菇"
-    },
-    {
-     "t": "text",
-     "v": "4、「忧郁自艾者在荧光森林需要帮助任务」前往"
-    },
-    {
-     "t": "text",
-     "v": "雨林"
-    },
-    {
-     "t": "text",
-     "v": "蘑菇图，找到忧郁自艾者点先祖头上的图标开启任务，然后跟随蓝色星星指引完成任务"
+     "v": "4、「忙碌舞台管理员在乡村剧场需要一些帮助」进入圆梦村后前往乡村剧场，找到先祖开启任务并跟随指引完成"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/ca45a48836584dd28742251d7bf12bfa.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/43c311ee88e64e7e92cc4cf7dee8cc31.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/bf18712bc5524ac1ae54d1dcd40599e1.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/8eda908832de40a38ece58d79b89f512.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/e5eb22dabfaf40fdb5328d559c58a807.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/9fb79f88e9b546c4831cb7ed973ba41a.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/5a5e1a09462c44e2b4f626c408d78d3b.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/780f47e4aef3494a82b6084f62cbdf1f.png"
     }
    ],
    "src": "C"
@@ -122,19 +103,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "位置:暮土方舟"
-    },
-    {
-     "t": "text",
-     "v": "性质:红石"
-    },
-    {
-     "t": "text",
-     "v": "时间:7:08-8:00、13:08-14:00、19:08-20:00"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/1ae02678205e4ee39ef28efe6a93478e.png"
+     "v": "今日无落石"
     }
    ],
    "src": "C"
@@ -144,7 +113,15 @@
    "blocks": [
     {
      "t": "text",
-     "v": "魔法工坊［遇境/方舟/云巢魔法商店]  常规"
+     "v": "魔法工坊［遇境/"
+    },
+    {
+     "t": "text",
+     "v": "方舟"
+    },
+    {
+     "t": "text",
+     "v": "/云巢魔法商店]  常规"
     },
     {
      "t": "text",
@@ -152,15 +129,15 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周日）绚丽"
+     "v": "魔法:（每周一）"
     },
     {
      "t": "text",
-     "v": "彩虹"
+     "v": "烟花"
     },
     {
      "t": "text",
-     "v": "、体型重塑"
+     "v": "魔法"
     },
     {
      "t": "text",
@@ -172,7 +149,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还0天23小时59分。本周家具（每13周为一轮，这是第2/13周）:小靠背板凳（16白）、置物架（15红）、【新增】致梵高椅子（13白）、【新增】致梵高杂物桌（14白）"
+     "v": "柜台每周一刷新，距离下次刷新还6天23小时59分。本周家具（每13周为一轮，这是第3/13周）:双人沙发（60白）、带抽屉长桌（50白）、拼色靠垫（12白）、【新】致梵高收纳箱（6白）、【新增】致梵高床（22白）"
     }
    ],
    "src": "C"
@@ -190,7 +167,7 @@
     },
     {
      "t": "text",
-     "v": "包含今日在内已获得代币:40+15（15为一次性代币）"
+     "v": "包含今日在内已获得代币:50+15（15为一次性代币）"
     },
     {
      "t": "text",
@@ -208,11 +185,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "云野"
+     "v": "霞谷"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/6e0a7b246c50489983f1fff1bc1e2fc3.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/a5876a3d145a4bb7b59b40efcc451e69.png"
     }
    ],
    "src": "C"
@@ -226,7 +203,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/5813992fc6304da292075fcd05a503d9.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/6d6f06e4e2d6447fa9b97e4b960ad2c5.png"
     }
    ],
    "src": "C"
@@ -252,7 +229,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/5a5e1a09462c44e2b4f626c408d78d3b.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/7be2942b9e2c4f288318786ec4a4fb9c.png"
     },
     {
      "t": "text",
@@ -260,7 +237,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/1c071c641cd543ad9a4e21de62a0d86f.gif"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/a40d1f5d86a84a00a6d79db86894c684.gif"
     }
    ],
    "src": "C"
@@ -270,7 +247,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/9f7b7c8247094714b967f6f90f974a01.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/f6b6de53a57740c7a83dc53a89f94986.png"
     },
     {
      "t": "text",
@@ -278,7 +255,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/01/dbc8bd11047843f18934aaa0697dc2e9.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/5eff1570fdfe45cd897eda0deda5b424.png"
     }
    ],
    "src": "C"
