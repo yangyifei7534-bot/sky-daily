@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03 00:50:21",
+ "generated_at": "2026-11-03 03:45:25",
  "today": "2026-11-03",
  "sources": [
   {
@@ -15,13 +15,12 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12178874.html",
+   "list_label": "《光·遇》11.3每日任务攻略！",
    "ok": true,
-   "updated": "2026-11-02 10:42:03",
-   "content_date": "2026-11-02",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-11-03 11:03:27",
+   "content_date": "2026-11-03",
+   "error": ""
   },
   {
    "key": "B",
@@ -35,9 +34,7 @@
   }
  ],
  "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-11-02，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-11-02），等下次运行自动恢复"
+  "SkyDailyInfo 的内容日期是 2026-11-02，不是今天"
  ],
  "sections": [
   {
@@ -68,35 +65,43 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「点亮一位玩家玩家」抓一个小黑并和他点火"
+     "v": "1、「面对冥龙」被龙盯一下让它目光从蓝变红"
     },
     {
      "t": "text",
-     "v": "2、「点燃20根蜡烛」点燃地图内任意20根蜡烛即可"
+     "v": "2、「向一位玩家鞠躬」面向任意玩家做鞠躬动作"
     },
     {
      "t": "text",
-     "v": "3、「和朋友击掌」字面意义，也可和集结季向导完成"
+     "v": "3、「向一位朋友招手」面向好友做招手动作"
     },
     {
      "t": "text",
-     "v": "4、「忙碌舞台管理员在乡村剧场需要一些帮助」进入圆梦村后前往乡村剧场，找到先祖开启任务并跟随指引完成"
+     "v": "4、「苦修行者在云巢需要帮助」前往云巢进入咖啡店右侧"
+    },
+    {
+     "t": "text",
+     "v": "冥想"
+    },
+    {
+     "t": "text",
+     "v": "空间，找到先祖开始任务并跟随蓝色星星指引完成"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/43c311ee88e64e7e92cc4cf7dee8cc31.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/03/359fb0605b534890b37ecd7cef8430e0.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/8eda908832de40a38ece58d79b89f512.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/03/026bd74d08b54cc5b3849aaa58a4794e.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/9fb79f88e9b546c4831cb7ed973ba41a.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/03/903eb9e25d69472ea5a29e2b35085fbc.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/780f47e4aef3494a82b6084f62cbdf1f.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/03/f83d8304ba574c159896b24036021c70.png"
     }
    ],
    "src": "C"
@@ -106,7 +111,19 @@
    "blocks": [
     {
      "t": "text",
-     "v": "今日无落石"
+     "v": "位置:云野图一"
+    },
+    {
+     "t": "text",
+     "v": "性质:黑石"
+    },
+    {
+     "t": "text",
+     "v": "时间:9:08-10:00、14:08-15:00、19:08-20:00"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/03/cf7232e86f214bcaa8042d1e6f30033e.png"
     }
    ],
    "src": "C"
@@ -132,15 +149,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周一）"
-    },
-    {
-     "t": "text",
-     "v": "烟花"
-    },
-    {
-     "t": "text",
-     "v": "魔法"
+     "v": "魔法:（每周二）光能药剂"
     },
     {
      "t": "text",
@@ -152,7 +161,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还6天23小时59分。本周家具（每13周为一轮，这是第3/13周）:双人沙发（60白）、带抽屉长桌（50白）、拼色靠垫（12白）、【新】致梵高收纳箱（6白）、【新增】致梵高床（22白）"
+     "v": "柜台每周一刷新，距离下次刷新还5天23小时59分。本周家具（每13周为一轮，这是第3/13周）:双人沙发（60白）、带抽屉长桌（50白）、拼色靠垫（12白）、【新】致梵高收纳箱（6白）、【新增】致梵高床（22白）"
     }
    ],
    "src": "C"
@@ -170,7 +179,7 @@
     },
     {
      "t": "text",
-     "v": "包含今日在内已获得代币:50+15（15为一次性代币）"
+     "v": "包含今日在内已获得代币:55+15（15为一次性代币）"
     },
     {
      "t": "text",
@@ -188,11 +197,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "霞谷"
+     "v": "暮土"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/a5876a3d145a4bb7b59b40efcc451e69.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/03/43eb4e3bd7b342b991a16542ac734de1.png"
     }
    ],
    "src": "C"
@@ -206,41 +215,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/6d6f06e4e2d6447fa9b97e4b960ad2c5.png"
-    }
-   ],
-   "src": "C"
-  },
-  {
-   "title": "🎉 先祖复刻",
-   "blocks": [
-    {
-     "t": "text",
-     "v": "复刻先祖:音韵季-献情演员"
-    },
-    {
-     "t": "text",
-     "v": "复刻时间:2026.10.29 06:00 - 2026.11.02 12:00（中午）"
-    },
-    {
-     "t": "text",
-     "v": "可兑换:带靴子的棉裤（上身/靴子可染色）、鸟喙面具"
-    },
-    {
-     "t": "text",
-     "v": "预估兑换树"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/7be2942b9e2c4f288318786ec4a4fb9c.png"
-    },
-    {
-     "t": "text",
-     "v": "动作展示"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/a40d1f5d86a84a00a6d79db86894c684.gif"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/03/38ed98e54ce04a50b36890ad0decee88.png"
     }
    ],
    "src": "C"
@@ -250,7 +225,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/f6b6de53a57740c7a83dc53a89f94986.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/03/ca99aac3f8a84dd98cb850c21173cd6b.png"
     },
     {
      "t": "text",
@@ -258,7 +233,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/02/5eff1570fdfe45cd897eda0deda5b424.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/03/5f3a2e815c4249c79590ce6d735a46e0.png"
     }
    ],
    "src": "C"
