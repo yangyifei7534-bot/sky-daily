@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06 00:06:55",
+ "generated_at": "2026-11-06 03:47:30",
  "today": "2026-11-06",
  "sources": [
   {
@@ -15,13 +15,12 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12185213.html",
+   "list_label": "《光·遇》11.6每日任务攻略！",
    "ok": true,
-   "updated": "2026-11-05 11:14:47",
-   "content_date": "2026-11-05",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-11-06 10:39:45",
+   "content_date": "2026-11-06",
+   "error": ""
   },
   {
    "key": "B",
@@ -35,9 +34,7 @@
   }
  ],
  "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-11-05，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-11-05），等下次运行自动恢复"
+  "SkyDailyInfo 的内容日期是 2026-11-05，不是今天"
  ],
  "sections": [
   {
@@ -68,35 +65,43 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「向一位玩家鞠躬」面向任意玩家做鞠躬动作"
+     "v": "1、「净化10株黑暗植物」烧10瓣花"
     },
     {
      "t": "text",
-     "v": "2、「向一位朋友招手」面向好友做招手动作"
+     "v": "2、「向一位朋友做动作」好友做任意动作"
     },
     {
      "t": "text",
-     "v": "3、「接受一位朋友的礼物」收一颗心或心火"
+     "v": "3、「和陌生人坐在长椅上」字面意义"
     },
     {
      "t": "text",
-     "v": "4、「在云野重温先祖的美好回忆」云野三塔图，左边塔下方双人门内"
+     "v": "4、「@音韵季先祖“献情演员”需要帮助」雨林水母图四连亭第一个"
+    },
+    {
+     "t": "text",
+     "v": "亭子"
+    },
+    {
+     "t": "text",
+     "v": "（最靠近入口的那个）下方拱形空间内"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/05/896bf123c1c8463a843d280057eb0644.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/06/b9bc300930094032866d9f50cd25ecd9.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/05/cdff240b6811434ea1a513cc3e122408.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/06/0a6115f129c24025936cdf4ae8ba9b0e.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/05/4d8e606d88b746d983cb8756d420211b.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/06/9ef8e92f53344201854b3a05c46e9432.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/05/de1fe88d1e4a48449abfed4fe1b0acdf.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/06/d4db09a593f0461aa9fb778dc03c2449.png"
     }
    ],
    "src": "C"
@@ -132,7 +137,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周四）漂浮魔法"
+     "v": "魔法:（每周五）大只佬、小不点"
     },
     {
      "t": "text",
@@ -144,7 +149,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还3天23小时59分。本周家具（每13周为一轮，这是第3/13周）:双人沙发（60白）、带抽屉长桌（50白）、拼色靠垫（12白）、【新】致梵高收纳箱（6白）、【新增】致梵高床（22白）"
+     "v": "柜台每周一刷新，距离下次刷新还2天23小时59分。本周家具（每13周为一轮，这是第3/13周）:双人沙发（60白）、带抽屉长桌（50白）、拼色靠垫（12白）、【新】致梵高收纳箱（6白）、【新增】致梵高床（22白）"
     }
    ],
    "src": "C"
@@ -162,7 +167,7 @@
     },
     {
      "t": "text",
-     "v": "包含今日在内已获得代币:65+15（15为一次性代币）"
+     "v": "包含今日在内已获得代币:70+15（15为一次性代币）"
     },
     {
      "t": "text",
@@ -180,11 +185,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "云野"
+     "v": "雨林"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/05/6654aba859c24d3bafcd4802565a6a14.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/06/1aea612b4966435c896d4efb2dadadb1.png"
     }
    ],
    "src": "C"
@@ -194,11 +199,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "全图"
+     "v": "云野雨林霞谷"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/05/a00c21c44acb4ac08525a6337ef97752.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/06/8757cc5cdc034d0c904a6b29f37f7006.png"
     }
    ],
    "src": "C"
@@ -208,7 +213,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/05/6ac59ecdd471464da33a080cafc91be2.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/06/ff86ca0e39584c1ab7ed427bb574fab8.png"
     },
     {
      "t": "text",
@@ -216,7 +221,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/05/10ba25e181fd417a9defe3c8694e9987.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/06/6543ed596453426d996b7d571bca98e2.png"
     }
    ],
    "src": "C"
