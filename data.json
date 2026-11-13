@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12 12:23:41",
- "today": "2026-11-12",
+ "generated_at": "2026-11-13 02:49:54",
+ "today": "2026-11-13",
  "sources": [
   {
    "key": "A",
@@ -9,16 +9,17 @@
    "ok": true,
    "updated": "2026年11月12日 13:48:04",
    "content_date": "2026-11-12",
-   "error": ""
+   "error": "",
+   "stale": true
   },
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/12196434.html",
-   "list_label": "《光·遇》11.12每日任务攻略！",
+   "url": "https://www.9game.cn/skygy/12199648.html",
+   "list_label": "《光·遇》11.13每日任务攻略！",
    "ok": true,
-   "updated": "2026-11-12 08:58:04",
-   "content_date": "2026-11-12",
+   "updated": "2026-11-13 09:35:31",
+   "content_date": "2026-11-13",
    "error": ""
   },
   {
@@ -32,7 +33,9 @@
    "stale": true
   }
  ],
- "warnings": [],
+ "warnings": [
+  "SkyDailyInfo 的内容日期是 2026-11-12，不是今天"
+ ],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
@@ -62,43 +65,43 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「拾起一只"
+     "v": "1、「向一位朋友招手」面向好友做招手动作"
     },
     {
      "t": "text",
-     "v": "螃蟹"
+     "v": "2、「收集30点烛光」"
     },
     {
      "t": "text",
-     "v": "」在螃蟹周围长按自己大叫掀翻螃蟹后，点击手掌图标将螃蟹抱起即可"
+     "v": "3、「和陌生人坐在长椅上」字面意义"
     },
     {
      "t": "text",
-     "v": "2、「向一位玩家鞠躬」面向任意玩家做鞠躬动作"
+     "v": "4、「在沉船"
     },
     {
      "t": "text",
-     "v": "3、「在水母上恢复能量」完全耗空能量后靠近可回能水母"
+     "v": "冥想"
     },
     {
      "t": "text",
-     "v": "4、「向一位朋友招手」面向好友做招手动作"
+     "v": "」暮土沉船，沉船内中间一层"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/12/7b2771b959a646a3b1919a39efbdcf9c.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/8b2912e2c8c0402fbf10477f9baab682.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/12/4f12c4db57894933bc61130275cc02d4.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/cd46ca849ac34fcdaa98c2661f6beac8.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/12/de950d3054f24925b7f34c4fc5eb9011.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/6d167983b3f94736829d61380f7acb6b.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/12/a99a83dbe89746868962bff032403845.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/e477ecf452a8473085f94eb9ac7da1c6.png"
     }
    ],
    "src": "C"
@@ -134,7 +137,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周四）漂浮魔法"
+     "v": "魔法:（每周五）大只佬、小不点"
     },
     {
      "t": "text",
@@ -146,7 +149,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还3天23小时59分。本周家具（每13周为一轮，这是第4/13周）:单人沙发（10心）、扁长桌柜（45白）、折叠毛巾（10白）、条纹小地毯（18白）、【新增】致梵高写信台（13白）、【新增】致梵高画具收纳盒（8白）"
+     "v": "柜台每周一刷新，距离下次刷新还2天23小时59分。本周家具（每13周为一轮，这是第4/13周）:单人沙发（10心）、扁长桌柜（45白）、折叠毛巾（10白）、条纹小地毯（18白）、【新增】致梵高写信台（13白）、【新增】致梵高画具收纳盒（8白）"
     }
    ],
    "src": "C"
@@ -156,15 +159,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "活动"
-    },
-    {
-     "t": "text",
-     "v": "时间:2026.10.24 00:00 - 2026.11.13 23:59"
-    },
-    {
-     "t": "text",
-     "v": "包含今日在内已获得代币:95+15（15为一次性代币）"
+     "v": "❗恶作剧之日最后一天❗"
     },
     {
      "t": "text",
@@ -172,7 +167,15 @@
     },
     {
      "t": "text",
-     "v": "每日5枚代币获取方式:完成每日活动玩法"
+     "v": "每日5枚代币获取方式:完成每日"
+    },
+    {
+     "t": "text",
+     "v": "活动"
+    },
+    {
+     "t": "text",
+     "v": "玩法"
     }
    ],
    "src": "C"
@@ -182,11 +185,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "霞谷"
+     "v": "暮土"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/12/b059380c7ac84a6594b0456dfa294f80.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/13be9590d69f43eeb5cc55a14a2491d8.png"
     }
    ],
    "src": "C"
@@ -199,8 +202,16 @@
      "v": "云野"
     },
     {
+     "t": "text",
+     "v": "雨林"
+    },
+    {
+     "t": "text",
+     "v": "霞谷"
+    },
+    {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/12/b396ca5361c242cb964b45423551f77a.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/ed7bb630d0274906a752939398b6c78f.png"
     }
    ],
    "src": "C"
@@ -210,7 +221,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/12/46b799e218c34710be9ba19e2cf49452.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/857003e561b546a49d13fcff105b6507.png"
     },
     {
      "t": "text",
@@ -218,7 +229,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/12/09c2d30394994ab1bfe606e103a76b65.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/4f2c0f2355314ded800bfac58206f3e0.png"
     }
    ],
    "src": "C"
