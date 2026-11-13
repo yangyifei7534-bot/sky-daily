@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13 02:49:54",
+ "generated_at": "2026-11-13 10:44:06",
  "today": "2026-11-13",
  "sources": [
   {
@@ -7,10 +7,9 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年11月12日 13:48:04",
-   "content_date": "2026-11-12",
-   "error": "",
-   "stale": true
+   "updated": "2026年11月13日 13:07:25",
+   "content_date": "2026-11-13",
+   "error": ""
   },
   {
    "key": "C",
@@ -33,28 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "SkyDailyInfo 的内容日期是 2026-11-12，不是今天"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 拾起一只螃蟹"
+     "v": "1. 向一位玩家招手"
     },
     {
      "t": "text",
-     "v": "2. 向一位玩家鞠躬"
+     "v": "2. 收集30点烛火"
     },
     {
      "t": "text",
-     "v": "3. 在水母上回复能量"
+     "v": "3. 和陌生人一起坐在长凳上"
     },
     {
      "t": "text",
-     "v": "4. 向一位朋友招手"
+     "v": "4. 在黑水港湾的沉船上冥想"
     }
    ],
    "kind": "tasks",
@@ -249,19 +246,11 @@
    "blocks": [
     {
      "t": "head",
-     "v": "📍 掀螃蟹攻略"
+     "v": "📍 每日任务－在黑水港湾的沉船上冥想"
     },
     {
      "t": "text",
-     "v": "【掀螃蟹】\n在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。\n走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~\n今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略"
-    },
-    {
-     "t": "head",
-     "v": "📍 每日任务·在水母上恢复能量"
-    },
-    {
-     "t": "text",
-     "v": "【每日任务－在水母上恢复能量】\n位置：密林遗迹(水母图)\n步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母\n注意：几乎消耗完能量后再跳上水母会更容易完成任务哦\n今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量"
+     "v": "【每日任务－在黑水港湾的沉船上冥想】\n任务：在黑水港湾的沉船上冥想\n位置：暮土黑水港湾(沉船图)－沉船里\n步骤：进入暮土后在第二个地图进入黑水港湾，前往沉船里即可找到冥想点\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260721/cd37ce37b98f363f10a57461122962012528eab5.mp4\n今日推荐：如果你换哥特斗篷就可以得到...https://ds.163.com/feed/6ae0ee7fd9851f70ec853d36/?utm_content=f_ma75.jl.jlctPT.top.arvbs6&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在黑水港湾的沉船上冥想"
     },
     {
      "t": "head",
@@ -293,6 +282,60 @@
      "v": "存档源 sky-auto 表面上每天照常提交，但它的上游 KOL「Sky孤独旅人」已于 2026-06-30 宣布停止每日更新，图文从那天起就没变过。下面只保留与今日任务名称匹配的攻略和固定参考；季节蜡烛 / 大蜡烛 / 免费魔法等每天会变的内容已自动隐藏。"
     }
    ],
+   "src": "B"
+  },
+  {
+   "title": "🗂️ 任务二：收集30点烛火 0/30",
+   "blocks": [
+    {
+     "t": "note",
+     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
+    },
+    {
+     "t": "text",
+     "v": "完成方法："
+    },
+    {
+     "t": "text",
+     "v": "1.领取任务"
+    },
+    {
+     "t": "text",
+     "v": "2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png"
+    }
+   ],
+   "kind": "archive",
+   "src": "B"
+  },
+  {
+   "title": "🗂️ 任务三：和陌生人一起坐在长凳上 0/1",
+   "blocks": [
+    {
+     "t": "note",
+     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
+    },
+    {
+     "t": "text",
+     "v": "完成方法："
+    },
+    {
+     "t": "text",
+     "v": "和陌生玩家一起坐在石凳上即可完成"
+    },
+    {
+     "t": "head",
+     "v": "注：除晨岛和遇境外 其他地图大厅前均有石凳"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_ff8f579be1febf1e09f4269958b301e0"
+    }
+   ],
+   "kind": "archive",
    "src": "B"
   },
   {
