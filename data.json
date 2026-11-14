@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14 09:16:58",
+ "generated_at": "2026-11-14 20:31:14",
  "today": "2026-11-14",
  "sources": [
   {
@@ -14,13 +14,12 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12202050.html",
+   "list_label": "《光·遇》11.14每日任务攻略！",
    "ok": true,
-   "updated": "2026-11-13 09:35:31",
-   "content_date": "2026-11-13",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-11-14 10:50:29",
+   "content_date": "2026-11-14",
+   "error": ""
   },
   {
    "key": "B",
@@ -33,10 +32,7 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-11-13），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
@@ -66,43 +62,59 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「向一位朋友招手」面向好友做招手动作"
+     "v": "1、「向一位玩家鞠躬」面向任意玩家做鞠躬动作"
     },
     {
      "t": "text",
-     "v": "2、「收集30点烛光」"
+     "v": "2、「和朋友击掌」字面意义，也可和集结季向导完成"
     },
     {
      "t": "text",
-     "v": "3、「和陌生人坐在长椅上」字面意义"
+     "v": "3、「掀翻5只"
     },
     {
      "t": "text",
-     "v": "4、「在沉船"
+     "v": "螃蟹"
     },
     {
      "t": "text",
-     "v": "冥想"
+     "v": "」在螃蟹周围长按自己大叫可掀翻螃蟹"
     },
     {
      "t": "text",
-     "v": "」暮土沉船，沉船内中间一层"
+     "v": "4、「在禁阁庇护所追逐浮动光点」禁阁一层电梯旁进入庇护所，在庇护所内抓住三道光即可"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/8b2912e2c8c0402fbf10477f9baab682.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/22fdb9d634d347feb8092199464c4f0f.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/cd46ca849ac34fcdaa98c2661f6beac8.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/c23bed6b49fc4a9f9743482ee9067944.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/6d167983b3f94736829d61380f7acb6b.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/96dca7f1230b462d877d4f76ec5737d7.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/e477ecf452a8473085f94eb9ac7da1c6.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/5bc9f346b0a54da5a4744bb0d246e1f4.png"
+    },
+    {
+     "t": "text",
+     "v": "『近期"
+    },
+    {
+     "t": "text",
+     "v": "活动"
+    },
+    {
+     "t": "text",
+     "v": "日历』"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/7f23510700bc47528c2a8f6a3745859e.png"
     }
    ],
    "src": "C"
@@ -112,7 +124,27 @@
    "blocks": [
     {
      "t": "text",
-     "v": "今日无落石"
+     "v": "位置:"
+    },
+    {
+     "t": "text",
+     "v": "雨林"
+    },
+    {
+     "t": "text",
+     "v": "神殿后"
+    },
+    {
+     "t": "text",
+     "v": "性质:红石"
+    },
+    {
+     "t": "text",
+     "v": "时间:10:08-11:00、14:08-15:00、22:08-23:00"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/8e8ff65e779942ee985cde1734170d6d.png"
     }
    ],
    "src": "C"
@@ -138,7 +170,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周五）大只佬、小不点"
+     "v": "魔法:（每周六）长大成人、返老还童"
     },
     {
      "t": "text",
@@ -150,33 +182,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还2天23小时59分。本周家具（每13周为一轮，这是第4/13周）:单人沙发（10心）、扁长桌柜（45白）、折叠毛巾（10白）、条纹小地毯（18白）、【新增】致梵高写信台（13白）、【新增】致梵高画具收纳盒（8白）"
-    }
-   ],
-   "src": "C"
-  },
-  {
-   "title": "🎉 恶作剧之日",
-   "blocks": [
-    {
-     "t": "text",
-     "v": "❗恶作剧之日最后一天❗"
-    },
-    {
-     "t": "text",
-     "v": "一次性代币获取方式:完成小女巫的3个剧情任务"
-    },
-    {
-     "t": "text",
-     "v": "每日5枚代币获取方式:完成每日"
-    },
-    {
-     "t": "text",
-     "v": "活动"
-    },
-    {
-     "t": "text",
-     "v": "玩法"
+     "v": "柜台每周一刷新，距离下次刷新还1天23小时59分。本周家具（每13周为一轮，这是第4/13周）:单人沙发（10心）、扁长桌柜（45白）、折叠毛巾（10白）、条纹小地毯（18白）、【新增】致梵高写信台（13白）、【新增】致梵高画具收纳盒（8白）"
     }
    ],
    "src": "C"
@@ -190,7 +196,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/13be9590d69f43eeb5cc55a14a2491d8.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/518da8b57b0a4fd580e598e376cbb4ca.png"
     }
    ],
    "src": "C"
@@ -200,37 +206,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "云野"
-    },
-    {
-     "t": "text",
-     "v": "雨林"
-    },
-    {
-     "t": "text",
-     "v": "霞谷"
+     "v": "云野雨林暮土"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/ed7bb630d0274906a752939398b6c78f.png"
-    }
-   ],
-   "src": "C"
-  },
-  {
-   "title": "🎉 近期活动日历",
-   "blocks": [
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/857003e561b546a49d13fcff105b6507.png"
-    },
-    {
-     "t": "text",
-     "v": "附 恶作剧之日兑换树"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/13/4f2c0f2355314ded800bfac58206f3e0.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/a719e14abdbd4d0d8d5c7835859c1008.png"
     }
    ],
    "src": "C"
