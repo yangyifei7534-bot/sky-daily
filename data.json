@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15 07:40:32",
+ "generated_at": "2026-11-15 20:54:36",
  "today": "2026-11-15",
  "sources": [
   {
@@ -14,13 +14,12 @@
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12203411.html",
+   "list_label": "《光·遇》11.15每日任务攻略！",
    "ok": true,
-   "updated": "2026-11-14 10:50:29",
-   "content_date": "2026-11-14",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-11-15 09:58:45",
+   "content_date": "2026-11-15",
+   "error": ""
   },
   {
    "key": "B",
@@ -33,10 +32,7 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-11-14），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
@@ -66,43 +62,35 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「向一位玩家鞠躬」面向任意玩家做鞠躬动作"
+     "v": "1、「点燃20根蜡烛」"
     },
     {
      "t": "text",
-     "v": "2、「和朋友击掌」字面意义，也可和集结季向导完成"
+     "v": "2、「向一位朋友招手」面向好友做招手动作"
     },
     {
      "t": "text",
-     "v": "3、「掀翻5只"
+     "v": "3、「净化10株黑暗植物」烧10瓣花"
     },
     {
      "t": "text",
-     "v": "螃蟹"
-    },
-    {
-     "t": "text",
-     "v": "」在螃蟹周围长按自己大叫可掀翻螃蟹"
-    },
-    {
-     "t": "text",
-     "v": "4、「在禁阁庇护所追逐浮动光点」禁阁一层电梯旁进入庇护所，在庇护所内抓住三道光即可"
+     "v": "4、「在水母上恢复能量」完全耗空能量后靠近可回能水母"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/22fdb9d634d347feb8092199464c4f0f.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/15/a958715e842842e496fcd84fc81a3fe7.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/c23bed6b49fc4a9f9743482ee9067944.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/15/d8a0c3419d9746da959718c63867d1e2.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/96dca7f1230b462d877d4f76ec5737d7.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/15/0db20a5f72d747c685231f4fc168d85b.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/5bc9f346b0a54da5a4744bb0d246e1f4.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/15/7a961a0b9c8c4a12978f96e7063446b3.png"
     },
     {
      "t": "text",
@@ -118,7 +106,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/7f23510700bc47528c2a8f6a3745859e.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/15/74c26ba2f8db4ef0843305b93ca82778.png"
     }
    ],
    "src": "C"
@@ -128,15 +116,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "位置:"
-    },
-    {
-     "t": "text",
-     "v": "雨林"
-    },
-    {
-     "t": "text",
-     "v": "神殿后"
+     "v": "位置:霞谷雪隐峰"
     },
     {
      "t": "text",
@@ -144,11 +124,11 @@
     },
     {
      "t": "text",
-     "v": "时间:10:08-11:00、14:08-15:00、22:08-23:00"
+     "v": "时间:7:08-8:00、13:08-14:00、19:08-20:00"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/8e8ff65e779942ee985cde1734170d6d.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/15/44d84a3da71e4a969f49b8f5c7e704f5.png"
     }
    ],
    "src": "C"
@@ -174,7 +154,15 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周六）长大成人、返老还童"
+     "v": "魔法:（每周日）绚丽"
+    },
+    {
+     "t": "text",
+     "v": "彩虹"
+    },
+    {
+     "t": "text",
+     "v": "、体型重塑"
     },
     {
      "t": "text",
@@ -186,7 +174,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还1天23小时59分。本周家具（每13周为一轮，这是第4/13周）:单人沙发（10心）、扁长桌柜（45白）、折叠毛巾（10白）、条纹小地毯（18白）、【新增】致梵高写信台（13白）、【新增】致梵高画具收纳盒（8白）"
+     "v": "柜台每周一刷新，距离下次刷新还0天23小时59分。本周家具（每13周为一轮，这是第4/13周）:单人沙发（10心）、扁长桌柜（45白）、折叠毛巾（10白）、条纹小地毯（18白）、【新增】致梵高写信台（13白）、【新增】致梵高画具收纳盒（8白）"
     }
    ],
    "src": "C"
@@ -196,11 +184,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "暮土"
+     "v": "云野"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/518da8b57b0a4fd580e598e376cbb4ca.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/15/4eb234edd5824da9b9fcbf5578362402.png"
     }
    ],
    "src": "C"
@@ -210,11 +198,15 @@
    "blocks": [
     {
      "t": "text",
-     "v": "云野雨林暮土"
+     "v": "雨林"
+    },
+    {
+     "t": "text",
+     "v": "暮土禁阁"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/14/a719e14abdbd4d0d8d5c7835859c1008.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/15/47824ea9ee924737b465c280c1a923cb.png"
     }
    ],
    "src": "C"
