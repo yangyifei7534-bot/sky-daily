@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18 13:43:49",
- "today": "2026-11-18",
+ "generated_at": "2026-11-19 04:01:24",
+ "today": "2026-11-19",
  "sources": [
   {
    "key": "A",
@@ -9,16 +9,17 @@
    "ok": true,
    "updated": "2026年11月18日 13:56:23",
    "content_date": "2026-11-18",
-   "error": ""
+   "error": "",
+   "stale": true
   },
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/12209718.html",
-   "list_label": "《光·遇》11.18每日任务攻略！",
+   "url": "https://www.9game.cn/skygy/12212475.html",
+   "list_label": "《光·遇》11.19每日任务攻略！",
    "ok": true,
-   "updated": "2026-11-18 10:15:10",
-   "content_date": "2026-11-18",
+   "updated": "2026-11-19 11:26:22",
+   "content_date": "2026-11-19",
    "error": ""
   },
   {
@@ -32,7 +33,9 @@
    "stale": true
   }
  ],
- "warnings": [],
+ "warnings": [
+  "SkyDailyInfo 的内容日期是 2026-11-18，不是今天"
+ ],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
@@ -62,59 +65,43 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「掀翻5只"
+     "v": "1、「在禁阁庇护所追逐浮动光点」禁阁一层电梯旁进入庇护所，在庇护所内抓住三道光即可"
     },
     {
      "t": "text",
-     "v": "螃蟹"
+     "v": "2、「在水母上恢复能量」完全耗空能量后靠近可回能水母"
     },
     {
      "t": "text",
-     "v": "」在螃蟹周围长按自己大叫可掀翻螃蟹"
+     "v": "3、「向一位玩家鞠躬」面向任意玩家做鞠躬动作"
     },
     {
      "t": "text",
-     "v": "2、「向一位朋友招手」面向好友做招手动作"
+     "v": "4、「在禁阁重温先祖的美好回忆」禁阁四层，"
     },
     {
      "t": "text",
-     "v": "3、「点亮一位玩家玩家」抓一个小黑并和他点火"
+     "v": "雨林"
     },
     {
      "t": "text",
-     "v": "4、「在暮土重温先祖的美好回忆」暮土终点图，城墙内部大花旁边"
+     "v": "星图右边浮空平台上。需点燃蜡烛摆出祈祷动作直到中间石碑完全变白，然后重温出现的先祖的收集过程"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/18/695263133d1142d6ba265ea8a92d3640.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/19/e6bf707c5dd546b38007c4f25ce84ae6.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/18/a9006fc1fb5d4308b095a2114395e73e.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/19/4e6706d8d964475e84570396e068329b.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/18/c1c2fe743f554ef686c5a0135e3eff84.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/19/f4d757ff941144308d011e487dd5c0b7.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/18/686fb1b7b5844837aabd6d03fe31d1fe.png"
-    },
-    {
-     "t": "text",
-     "v": "『近期"
-    },
-    {
-     "t": "text",
-     "v": "活动"
-    },
-    {
-     "t": "text",
-     "v": "日历』"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/18/c254bc024d8c46f180c8aa46f434fea7.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/19/803c8afae9234687871181abfd4c26f8.png"
     }
    ],
    "src": "C"
@@ -124,19 +111,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "位置:云野三塔图"
-    },
-    {
-     "t": "text",
-     "v": "性质:黑石"
-    },
-    {
-     "t": "text",
-     "v": "时间:9:08-10:00、15:08-16:00、21:08-22:00"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/18/9a20be069f4946ea84fc8b2e8c88fa09.png"
+     "v": "今日无落石"
     }
    ],
    "src": "C"
@@ -162,7 +137,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周三）璀璨之星"
+     "v": "魔法:（每周四）漂浮魔法"
     },
     {
      "t": "text",
@@ -174,7 +149,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还4天23小时59分。本周家具（每13周为一轮，这是第5/13周）:3人沙发（33心）、方形矮桌（18心）、绿植（12心）、箭头纹小地毯（8心）、【新】致梵高摇椅（11白）、【新】致梵高书桌（12白）"
+     "v": "柜台每周一刷新，距离下次刷新还3天23小时59分。本周家具（每13周为一轮，这是第5/13周）:3人沙发（33心）、方形矮桌（18心）、绿植（12心）、箭头纹小地毯（8心）、【新】致梵高摇椅（11白）、【新】致梵高书桌（12白）"
     }
    ],
    "src": "C"
@@ -184,11 +159,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "暮土"
+     "v": "禁阁"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/18/e151caa34db4457986994419b512375d.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/19/ae67470db6b24fb8b772fe12dc8a4ec8.png"
     }
    ],
    "src": "C"
@@ -198,11 +173,55 @@
    "blocks": [
     {
      "t": "text",
-     "v": "禁閣"
+     "v": "云野"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/18/2afebd184bbc499eb4fd1e4ee563905c.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/19/2f574a4d7b884e34b910ee1d20cedaf6.png"
+    }
+   ],
+   "src": "C"
+  },
+  {
+   "title": "🎉 集体复刻",
+   "blocks": [
+    {
+     "t": "text",
+     "v": "复刻时间：2026.11.19 00:00 - 2026.12.02 23:59"
+    },
+    {
+     "t": "text",
+     "v": "复刻范围：归巢季四位先祖"
+    },
+    {
+     "t": "text",
+     "v": "先祖收集：无需收集，遇境衣柜前/云巢"
+    },
+    {
+     "t": "text",
+     "v": "活动"
+    },
+    {
+     "t": "text",
+     "v": "告示板附近点击带有归巢季图标的背包传送到活动场景即可兑换"
+    },
+    {
+     "t": "text",
+     "v": "注意事项：均为一次复刻，记得兑换永久光之翼"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/19/6697008900b44d0397ec238cfb9484ba.png"
+    }
+   ],
+   "src": "C"
+  },
+  {
+   "title": "🎉 近期活动日历",
+   "blocks": [
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/19/6aa9d964305541ef81164f6d14e6ee08.png"
     }
    ],
    "src": "C"
