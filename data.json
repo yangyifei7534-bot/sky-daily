@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23 02:24:21",
+ "generated_at": "2026-11-23 11:05:12",
  "today": "2026-11-23",
  "sources": [
   {
@@ -7,21 +7,19 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年11月22日 13:08:00",
-   "content_date": "2026-11-22",
-   "error": "",
-   "stale": true
+   "updated": "2026年11月23日 13:49:40",
+   "content_date": "2026-11-23",
+   "error": ""
   },
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12220495.html",
+   "list_label": "《光·遇》11.23每日任务攻略！",
    "ok": true,
-   "updated": "2026-11-22 11:43:03",
-   "content_date": "2026-11-22",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-11-23 10:57:24",
+   "content_date": "2026-11-23",
+   "error": ""
   },
   {
    "key": "B",
@@ -34,30 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-11-22，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-11-22），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 在荧光小菇旁回复能量"
+     "v": "1. 面对冥龙"
     },
     {
      "t": "text",
-     "v": "2. 点燃20根蜡烛"
+     "v": "2. 点亮一位玩家"
     },
     {
      "t": "text",
-     "v": "3. 向一位朋友做个动作"
+     "v": "3. 掀翻5只螃蟹"
     },
     {
      "t": "text",
-     "v": "4. 帮助鸣谢收藏家"
+     "v": "4. 帮助焦虑渔夫"
     }
    ],
    "kind": "tasks",
@@ -68,43 +62,43 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「在"
+     "v": "1、「面对冥龙」被龙盯一下让它目光从蓝变红"
     },
     {
      "t": "text",
-     "v": "荧光"
+     "v": "2、「点亮一位玩家玩家」抓一个小黑并和他点火"
     },
     {
      "t": "text",
-     "v": "小菇恢复能量」完全没有能量后靠近荧光蘑菇"
+     "v": "3、「掀翻5只"
     },
     {
      "t": "text",
-     "v": "2、「点燃20根蜡烛」"
+     "v": "螃蟹"
     },
     {
      "t": "text",
-     "v": "3、「向一位朋友做动作」好友做任意动作"
+     "v": "」在螃蟹周围长按自己大叫可掀翻螃蟹"
     },
     {
      "t": "text",
-     "v": "4、「鸣谢收藏家在云巢需要帮助」前往云巢咖啡店右侧小门进入冥想空间，找到先祖开始任务并跟随指引完成"
+     "v": "4、「@焦虑渔夫在边陲荒漠需要一些帮助」前往暮土图一右侧码头找到渔夫，点击任务图标，第三次点击手掌抱起鱼交给渔夫完成"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/22/39c975f13b5d40ba9c3042e27c754dfd.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/23/a8bbf5257896499aa38edcabd8bc4c6e.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/22/4495f3d7e68643a18886a7528a94921d.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/23/9a44c5f0943145c1b7fe91f62570ef9a.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/22/81a1bec4073e4227b6ab992fce4d3195.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/23/9d792a3c1f7b4db1a4848dfd8317d35e.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/22/4e11e32a885d4a8abcace34df25db25e.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/23/3d19dd0fa6c1455c8a526b588aec83d2.png"
     }
    ],
    "src": "C"
@@ -114,19 +108,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "位置:禁阁水母湾"
-    },
-    {
-     "t": "text",
-     "v": "性质:红石"
-    },
-    {
-     "t": "text",
-     "v": "时间:7:08-8:00、13:08-14:00、19:08-20:00"
-    },
-    {
-     "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/22/f468b79c2dc442e2830bf4b02fd8ddca.png"
+     "v": "今日无落石"
     }
    ],
    "src": "C"
@@ -136,7 +118,15 @@
    "blocks": [
     {
      "t": "text",
-     "v": "魔法工坊［遇境/方舟/云巢魔法商店]  常规"
+     "v": "魔法工坊［遇境/"
+    },
+    {
+     "t": "text",
+     "v": "方舟"
+    },
+    {
+     "t": "text",
+     "v": "/云巢魔法商店]  常规"
     },
     {
      "t": "text",
@@ -144,15 +134,15 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周日）绚丽"
+     "v": "魔法:（每周一）"
     },
     {
      "t": "text",
-     "v": "彩虹"
+     "v": "烟花"
     },
     {
      "t": "text",
-     "v": "、体型重塑"
+     "v": "魔法"
     },
     {
      "t": "text",
@@ -164,7 +154,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还0天23小时59分。本周家具（每13周为一轮，这是第5/13周）:3人沙发（33心）、方形矮桌（18心）、绿植（12心）、箭头纹小地毯（8心）、【新】致梵高摇椅（11白）、【新】致梵高书桌（12白）"
+     "v": "柜台每周一刷新，距离下次刷新还6天23小时59分。本周家具（每13周为一轮，这是第6/13周）:转角沙发（25白）、方形茶台（23心）、三角壁灯（8红）、半圆小地毯（23白）、【新增】致梵高玻璃罩灯（14白）"
     }
    ],
    "src": "C"
@@ -174,11 +164,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "霞谷"
+     "v": "暮土"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/22/341b4828e2ec446a88600a5c74261bc2.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/23/afa956191cbf45e3a7afc7116a3083a7.png"
     }
    ],
    "src": "C"
@@ -188,15 +178,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "雨林"
-    },
-    {
-     "t": "text",
-     "v": "暮土禁阁"
+     "v": "霞谷"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/22/a2b5afdb2e7f41719c61ed1e66f2264a.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/23/d8a6c94f3db54808be6ef8d57c9a4095.png"
     }
    ],
    "src": "C"
@@ -230,7 +216,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/22/7f362a17470c408394ddebc86c83d02e.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/23/cb010ad4c9624f10aac7827c1502c5ed.png"
     }
    ],
    "src": "C"
@@ -240,7 +226,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/22/f6c1989a93204ef1af71b40775b6bad8.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/23/8963f624132d44f78f8783b4f4c1a217.png"
     }
    ],
    "src": "C"
@@ -250,7 +236,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "天气播报：今日将会有灼热碎片坠落在星光沙漠一隅"
+     "v": "天气播报：今日无碎片降落"
     }
    ],
    "src": "A"
@@ -260,19 +246,27 @@
    "blocks": [
     {
      "t": "head",
-     "v": "📍 荧光小菇"
+     "v": "📍 每日任务－面对冥龙"
     },
     {
      "t": "text",
-     "v": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n今日推荐：雨林清净挂机点推荐https://ds.163.com/feed/69d3896180948732849861fb/?utm_content=f_ma75.jl.jlctPT.top.0lokyf&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇"
+     "v": "【每日任务－面对冥龙】\n如何完成：被冥龙的探照灯照到一下即可完成\n推荐地点：暮土二图，旅途中第一次遇到冥龙的地方\n推荐地点视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260805/170a3e18d68c63592816ab01d6174f2f57fbff94.mp4\n今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－面对冥龙"
     },
     {
      "t": "head",
-     "v": "📍 鸣谢收藏家任务"
+     "v": "📍 掀螃蟹攻略"
     },
     {
      "t": "text",
-     "v": "【每日任务－帮助鸣谢收藏家】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在圣岛找到鸣谢收藏家　｜　鸣谢收藏家在云巢需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在圣岛找到鸣谢收藏家；\n2、若旅人之前已收集过该先祖，任务会显示为：鸣谢收藏家在云巢需要帮助。\n今日推荐：小恶魔斗篷礼包染色穿搭参考https://ds.163.com/feed/6add0bfd99f09836c90a60b1/?utm_content=f_ma75.jl.jlctPT.top.uz1bce&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=鸣谢收藏家任务"
+     "v": "【掀螃蟹】\n在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。\n走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~\n今日推荐：还有人不知道要这样玩吗https://ds.163.com/feed/6af8f827446a4f1a70948057/?utm_content=f_ma75.jl.jlctPT.top.nn664q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略"
+    },
+    {
+     "t": "head",
+     "v": "📍 每日任务－帮助焦虑渔夫"
+    },
+    {
+     "t": "text",
+     "v": "【每日任务－帮助焦虑渔夫】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在藏宝岛礁找到焦虑渔夫　｜　焦虑渔夫在边陲荒漠需要帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在藏宝岛礁找到焦虑渔夫；\n2、若旅人之前已收集过该先祖，任务会显示为：焦虑渔夫在边陲荒漠需要帮助\n今日推荐：珍珠季水手服穿搭推荐https://ds.163.com/feed/6adc445c41ead961916265bd/?utm_content=f_ma75.jl.jlctPT.top.vvmmbt&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－帮助焦虑渔夫"
     },
     {
      "t": "head",
