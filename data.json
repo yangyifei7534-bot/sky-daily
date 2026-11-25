@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25 00:28:25",
+ "generated_at": "2026-11-25 09:02:02",
  "today": "2026-11-25",
  "sources": [
   {
@@ -7,21 +7,19 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年11月24日 16:26:59",
-   "content_date": "2026-11-24",
-   "error": "",
-   "stale": true
+   "updated": "2026年11月25日 15:01:33",
+   "content_date": "2026-11-25",
+   "error": ""
   },
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12226022.html",
+   "list_label": "《光·遇》11.25每日任务攻略！",
    "ok": true,
-   "updated": "2026-11-24 10:44:45",
-   "content_date": "2026-11-24",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-11-25 10:55:35",
+   "content_date": "2026-11-25",
+   "error": ""
   },
   {
    "key": "B",
@@ -34,30 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-11-24，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-11-24），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 净化10株黑暗植物"
+     "v": "1. 和陌生人一起坐在长凳上"
     },
     {
      "t": "text",
-     "v": "2. 拾起一只螃蟹"
+     "v": "2. 向一位朋友招手"
     },
     {
      "t": "text",
-     "v": "3. 在荧光小菇旁回复能量"
+     "v": "3. 点亮一位玩家"
     },
     {
      "t": "text",
-     "v": "4. 和朋友击掌"
+     "v": "4. 前往云野重温母语者的回忆"
     }
    ],
    "kind": "tasks",
@@ -68,47 +62,43 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「净化10株黑暗植物」烧10瓣花"
+     "v": "1、「和陌生人坐在长椅上」字面意义"
     },
     {
      "t": "text",
-     "v": "2、「拾起一只螃蟹」在螃蟹周围长按自己大叫掀翻螃蟹后，点击手掌图标将螃蟹抱起即可"
+     "v": "2、「向一位朋友招手」面向好友做招手动作"
     },
     {
      "t": "text",
-     "v": "3、「在"
+     "v": "3、「点亮一位玩家玩家」抓一个小黑并和他点火"
     },
     {
      "t": "text",
-     "v": "荧光"
+     "v": "4、「@在圣岛重温先祖的美好回忆」云野圣岛主"
     },
     {
      "t": "text",
-     "v": "小菇恢复能量」完全没有能量后靠近荧光"
+     "v": "岛屿"
     },
     {
      "t": "text",
-     "v": "蘑菇"
-    },
-    {
-     "t": "text",
-     "v": "4、「和朋友击掌」字面意义，也可和集结季向导完成"
+     "v": "背面水母洞内"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/24/88d141eb3a774ae7beaea08ce8a7a4bd.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/2cdd5b9926e742c3b1ae5bdaac9a4581.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/24/e1658945acbc457a9a73e6e1a741cbe7.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/9c878c14967d44cb92c59895c1ad059e.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/24/69b8e5d8329b4934b504bdc0ba37a4ee.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/98267957bbae4b69961b25db213cbabd.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/24/778d8991911e487ca634de0414655ec3.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/7ee373520a0c405ebb29748940f8dc02.png"
     }
    ],
    "src": "C"
@@ -118,7 +108,19 @@
    "blocks": [
     {
      "t": "text",
-     "v": "今日无落石"
+     "v": "位置:霞谷滑冰场"
+    },
+    {
+     "t": "text",
+     "v": "性质:黑石"
+    },
+    {
+     "t": "text",
+     "v": "时间:9:08-10:00、15:08-16:00、21:08-22:00"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/28426cb1220d4955a5d39c1e022567e5.png"
     }
    ],
    "src": "C"
@@ -144,7 +146,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周二）光能药剂"
+     "v": "魔法:（每周三）璀璨之星"
     },
     {
      "t": "text",
@@ -156,7 +158,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还5天23小时59分。本周家具（每13周为一轮，这是第6/13周）:转角沙发（25白）、方形茶台（23心）、三角壁灯（8红）、半圆小地毯（23白）、【新增】致梵高玻璃罩灯（14白）"
+     "v": "柜台每周一刷新，距离下次刷新还4天23小时59分。本周家具（每13周为一轮，这是第6/13周）:转角沙发（25白）、方形茶台（23心）、三角壁灯（8红）、半圆小地毯（23白）、【新增】致梵高玻璃罩灯（14白）"
     }
    ],
    "src": "C"
@@ -166,11 +168,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "禁阁"
+     "v": "云野"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/24/f039c2d797a049a0b121d72fe0699788.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/e92fbd7844ec481793bddf833865e6d4.png"
     }
    ],
    "src": "C"
@@ -180,11 +182,45 @@
    "blocks": [
     {
      "t": "text",
-     "v": "暮土"
+     "v": "禁阁"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/24/362da4ff22c849629583ed2c55527682.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/08c4962741f54996b2bfacabfbcad8d7.png"
+    }
+   ],
+   "src": "C"
+  },
+  {
+   "title": "🎉 先祖复刻",
+   "blocks": [
+    {
+     "t": "text",
+     "v": "复刻先祖:魔法季-冷漠术士"
+    },
+    {
+     "t": "text",
+     "v": "复刻时间:2026.11.26 06:00 - 2026.11.30 12:00（中午）"
+    },
+    {
+     "t": "text",
+     "v": "可兑换:紫色流苏斗篷（可染色），头巾包发发型，长胡子面具"
+    },
+    {
+     "t": "text",
+     "v": "预估兑换树"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/6a7f7312c263415ebd5777bd03a6a78f.png"
+    },
+    {
+     "t": "text",
+     "v": "动作展示"
+    },
+    {
+     "t": "img",
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/df80823ae9214554988b9853ecaf0f2d.gif"
     }
    ],
    "src": "C"
@@ -218,7 +254,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/24/091c9a2d0c074118a4588e0725c643a1.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/7c5a6d2a2d40458e99b3f14a760fdff4.png"
     }
    ],
    "src": "C"
@@ -228,7 +264,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/24/c514dc7aa87c4094b4191bd124640732.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/15a6bf7ba888460ab587d0bca6123b24.png"
     }
    ],
    "src": "C"
@@ -238,7 +274,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "天气播报：今日无碎片降落"
+     "v": "天气播报：今日将会有冷却碎片坠落在滑冰场"
     }
    ],
    "src": "A"
@@ -248,27 +284,11 @@
    "blocks": [
     {
      "t": "head",
-     "v": "📍 每日任务－净化10株黑暗植物"
+     "v": "📍 母语者路线"
     },
     {
      "t": "text",
-     "v": "【每日任务－净化10株黑暗植物】\n1.地点：在雨林与暮土比较容易找到\n2.净化：黑暗植物大小不一，旅人们可以举着蜡烛靠近，在火光的持续灼烧下黑暗植物会被清除。\n今日推荐：一定要来打卡这个云朵音符！https://ds.163.com/feed/6af78ebd83b8293d558feee6/?utm_content=f_ma75.jl.jlctPT.top.6l9m1w&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－净化10株黑暗植物"
-    },
-    {
-     "t": "head",
-     "v": "📍 掀螃蟹攻略"
-    },
-    {
-     "t": "text",
-     "v": "【掀螃蟹】\n在螃蟹周围长按角色，发出呐喊，即可掀翻周围的螃蟹哦。\n走近被掀翻的螃蟹，会出现小图标，点击就可以抓起螃蟹啦~\n今日推荐：还有人不知道要这样玩吗https://ds.163.com/feed/6af8f827446a4f1a70948057/?utm_content=f_ma75.jl.jlctPT.top.nn664q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=掀螃蟹攻略"
-    },
-    {
-     "t": "head",
-     "v": "📍 荧光小菇"
-    },
-    {
-     "t": "text",
-     "v": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇"
+     "v": "【圣岛·母语者】　>>点击查看：迁徙水母语者位置\n视频指引：\nhttps://ok.166.net/gameyw-gbox/bot/205/20231229/efb2509c154e74e5ac809c5d24d77c3a470c49c7.mp4\n今日推荐：一定要来打卡这个云朵音符！https://ds.163.com/feed/6af78ebd83b8293d558feee6/?utm_content=f_ma75.jl.jlctPT.top.6l9m1w&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=母语者路线"
     },
     {
      "t": "head",
@@ -300,6 +320,64 @@
      "v": "存档源 sky-auto 表面上每天照常提交，但它的上游 KOL「Sky孤独旅人」已于 2026-06-30 宣布停止每日更新，图文从那天起就没变过。下面只保留与今日任务名称匹配的攻略和固定参考；季节蜡烛 / 大蜡烛 / 免费魔法等每天会变的内容已自动隐藏。"
     }
    ],
+   "src": "B"
+  },
+  {
+   "title": "🗂️ 任务三：和陌生人一起坐在长凳上 0/1",
+   "blocks": [
+    {
+     "t": "note",
+     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
+    },
+    {
+     "t": "text",
+     "v": "完成方法："
+    },
+    {
+     "t": "text",
+     "v": "和陌生玩家一起坐在石凳上即可完成"
+    },
+    {
+     "t": "head",
+     "v": "注：除晨岛和遇境外 其他地图大厅前均有石凳"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260630_ff8f579be1febf1e09f4269958b301e0"
+    }
+   ],
+   "kind": "archive",
+   "src": "B"
+  },
+  {
+   "title": "🗂️ 任务四：向一位朋友招手 0/1",
+   "blocks": [
+    {
+     "t": "note",
+     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
+    },
+    {
+     "t": "text",
+     "v": "完成方法："
+    },
+    {
+     "t": "text",
+     "v": "点击屏幕上方中间动作栏 找到招手动作 面对好友 点击并完成招手即可"
+    },
+    {
+     "t": "head",
+     "v": "注：1～6级招手动作均可完成"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260106_8aafd8f0602cf514c59b93fc26516bb0"
+    },
+    {
+     "t": "img",
+     "v": "https://img.166.net/reunionpub/1_kol_20260518_f04adc529e92fd1f82d458cf6c3f3279"
+    }
+   ],
+   "kind": "archive",
    "src": "B"
   },
   {
