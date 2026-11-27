@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27 00:26:15",
+ "generated_at": "2026-11-27 08:58:44",
  "today": "2026-11-27",
  "sources": [
   {
@@ -7,21 +7,19 @@
    "name": "SkyDailyInfo",
    "url": "https://raw.githubusercontent.com/oivio-up/SkyDailyInfo/main/README.md",
    "ok": true,
-   "updated": "2026年11月26日 14:54:14",
-   "content_date": "2026-11-26",
-   "error": "",
-   "stale": true
+   "updated": "2026年11月27日 14:46:59",
+   "content_date": "2026-11-27",
+   "error": ""
   },
   {
    "key": "C",
    "name": "9game 九游",
-   "url": "https://www.9game.cn/skygy/",
+   "url": "https://www.9game.cn/skygy/12231599.html",
+   "list_label": "《光·遇》11.27每日任务攻略.",
    "ok": true,
-   "updated": "2026-11-25 10:55:35",
-   "content_date": "2026-11-25",
-   "error": "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-   "stale": true,
-   "reused": true
+   "updated": "2026-11-27 10:56:22",
+   "content_date": "2026-11-27",
+   "error": ""
   },
   {
    "key": "B",
@@ -34,30 +32,26 @@
    "stale": true
   }
  ],
- "warnings": [
-  "9game 还没发布今天的图文（通常上午 10:30-11:20 发布）",
-  "SkyDailyInfo 的内容日期是 2026-11-26，不是今天",
-  "9game 九游 本次抓取失败，已沿用上次数据（2026-11-25），等下次运行自动恢复"
- ],
+ "warnings": [],
  "sections": [
   {
    "title": "🎯 今日任务（清单）",
    "blocks": [
     {
      "t": "text",
-     "v": "1. 点燃20根蜡烛"
+     "v": "1. 拾起一只螃蟹"
     },
     {
      "t": "text",
-     "v": "2. 在荧光小菇旁回复能量"
+     "v": "2. 净化10株黑暗植物"
     },
     {
      "t": "text",
-     "v": "3. 收集30点烛火"
+     "v": "3. 在水母上回复能量"
     },
     {
      "t": "text",
-     "v": "4. 在雨林神殿的栖光雨坛旁冥想"
+     "v": "4. 帮助老练音乐家"
     }
    ],
    "kind": "tasks",
@@ -68,43 +62,43 @@
    "blocks": [
     {
      "t": "text",
-     "v": "1、「和陌生人坐在长椅上」字面意义"
+     "v": "1、「拾起一只螃蟹」在螃蟹周围长按自己大叫掀翻螃蟹后，点击手掌图标将螃蟹抱起即可"
     },
     {
      "t": "text",
-     "v": "2、「向一位朋友招手」面向好友做招手动作"
+     "v": "2、「净化10株黑暗植物」烧10瓣花"
     },
     {
      "t": "text",
-     "v": "3、「点亮一位玩家玩家」抓一个小黑并和他点火"
+     "v": "3、「在水母上恢复能量」完全耗空能量后靠近可回能水母"
     },
     {
      "t": "text",
-     "v": "4、「@在圣岛重温先祖的美好回忆」云野圣岛主"
+     "v": "4、「老练音乐家在圆梦村需要一些帮助」前往霞谷圆梦村，从"
     },
     {
      "t": "text",
-     "v": "岛屿"
+     "v": "亭子"
     },
     {
      "t": "text",
-     "v": "背面水母洞内"
+     "v": "右边光门进入圆梦村，在冰层上找到音乐家开启任务并按指引完成"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/2cdd5b9926e742c3b1ae5bdaac9a4581.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/ec5960677e88470b9e5e85e9e535bcf8.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/9c878c14967d44cb92c59895c1ad059e.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/a81448b9721f4f50a38bc74672530f44.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/98267957bbae4b69961b25db213cbabd.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/c35968c5d5d14982889f8d0fdf5d4188.png"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/7ee373520a0c405ebb29748940f8dc02.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/c8f4bc56d8c64819ae85b618cf93ceb9.png"
     }
    ],
    "src": "C"
@@ -114,19 +108,19 @@
    "blocks": [
     {
      "t": "text",
-     "v": "位置:霞谷滑冰场"
+     "v": "位置:禁阁水母湾"
     },
     {
      "t": "text",
-     "v": "性质:黑石"
+     "v": "性质:红石"
     },
     {
      "t": "text",
-     "v": "时间:9:08-10:00、15:08-16:00、21:08-22:00"
+     "v": "时间:11:08-12:00、17:08-18:00、23:08-24:00"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/28426cb1220d4955a5d39c1e022567e5.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/2994666438b04fe2bee5047402704ab7.png"
     }
    ],
    "src": "C"
@@ -152,7 +146,7 @@
     },
     {
      "t": "text",
-     "v": "魔法:（每周三）璀璨之星"
+     "v": "魔法:（每周五）大只佬、小不点"
     },
     {
      "t": "text",
@@ -164,7 +158,7 @@
     },
     {
      "t": "text",
-     "v": "柜台每周一刷新，距离下次刷新还4天23小时59分。本周家具（每13周为一轮，这是第6/13周）:转角沙发（25白）、方形茶台（23心）、三角壁灯（8红）、半圆小地毯（23白）、【新增】致梵高玻璃罩灯（14白）"
+     "v": "柜台每周一刷新，距离下次刷新还2天23小时59分。本周家具（每13周为一轮，这是第6/13周）:转角沙发（25白）、方形茶台（23心）、三角壁灯（8红）、半圆小地毯（23白）、【新增】致梵高玻璃罩灯（14白）"
     }
    ],
    "src": "C"
@@ -174,11 +168,11 @@
    "blocks": [
     {
      "t": "text",
-     "v": "云野"
+     "v": "霞谷"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/e92fbd7844ec481793bddf833865e6d4.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/61f1d4e33fa8402cba94be4cbebd52f8.png"
     }
    ],
    "src": "C"
@@ -188,11 +182,19 @@
    "blocks": [
     {
      "t": "text",
-     "v": "禁阁"
+     "v": "云野"
+    },
+    {
+     "t": "text",
+     "v": "雨林"
+    },
+    {
+     "t": "text",
+     "v": "霞谷"
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/08c4962741f54996b2bfacabfbcad8d7.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/3d960768a92f42b782b79835dcd6e1b9.png"
     }
    ],
    "src": "C"
@@ -218,7 +220,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/6a7f7312c263415ebd5777bd03a6a78f.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/59ad18024aed452785dc7a98c5fd61e9.png"
     },
     {
      "t": "text",
@@ -226,7 +228,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/df80823ae9214554988b9853ecaf0f2d.gif"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/b6fdcec10663419c91618e753a5e4774.gif"
     }
    ],
    "src": "C"
@@ -260,7 +262,7 @@
     },
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/7c5a6d2a2d40458e99b3f14a760fdff4.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/90f2bc28eb2a4cce9eb72aabc048f2b1.png"
     }
    ],
    "src": "C"
@@ -270,7 +272,7 @@
    "blocks": [
     {
      "t": "img",
-     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/25/15a6bf7ba888460ab587d0bca6123b24.png"
+     "v": "https://cdn.9game.cn/ieu-gdc-mng/27594/files/2026/11/27/52593928b1654b2aa408717f3147d583.png"
     }
    ],
    "src": "C"
@@ -280,7 +282,7 @@
    "blocks": [
     {
      "t": "text",
-     "v": "天气播报：今日无碎片降落"
+     "v": "天气播报：今日将会有灼热碎片坠落在星光沙漠一隅"
     }
    ],
    "src": "A"
@@ -290,19 +292,19 @@
    "blocks": [
     {
      "t": "head",
-     "v": "📍 荧光小菇"
+     "v": "📍 每日任务·在水母上恢复能量"
     },
     {
      "t": "text",
-     "v": "【荧光小菇】\n小贴士：旅人们跳到荧光小菇上可补充能量\n(能量几乎消耗完时再跳上去会更容易完成每日任务哦)\n地点：荧光小菇是生长在雨林的植物。\n特性：荧光小菇呈半透明状态并且会发光，旅人们站在荧光蘑菇上可以悬浮起来，极容易辨认。\n今日推荐：缀珠礼服20套染色穿搭参考https://ds.163.com/feed/6adf9b60446a4f1a707246c6/?utm_content=f_ma75.jl.jlctPT.top.jz9w5q&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=荧光小菇"
+     "v": "【每日任务－在水母上恢复能量】\n位置：密林遗迹(水母图)\n步骤：密林遗迹后往前飞，来到终点图前的雨亭，点亮蜡烛即可召唤出一排水母\n注意：几乎消耗完能量后再跳上水母会更容易完成任务哦\n今日推荐：蝴蝶结宽沿帽穿搭推荐https://ds.163.com/feed/6a9d35e078de9d2c46d999e3/?utm_content=f_ma75.jl.jlctPT.top.bx7wtl&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务·在水母上恢复能量"
     },
     {
      "t": "head",
-     "v": "📍 每日任务－在雨林的神庙内冥想"
+     "v": "📍 帮助老练音乐家"
     },
     {
      "t": "text",
-     "v": "【每日任务－在雨林的神庙内冥想】\n任务：在雨林的神庙内冥想\n位置：在雨林－终点图树后方\n步骤：进入雨林的终点图后，往前走一点点，在右方的树后面\n视频指引：https://ok.166.net/gameyw-gbox/bot/205/20260807/410e964288fbbe080f632e3f905af0922b15e866.mp4\n今日推荐：一定要来打卡这个云朵音符！https://ds.163.com/feed/6af78ebd83b8293d558feee6/?utm_content=f_ma75.jl.jlctPT.top.6l9m1w&utm_term=wyds_dl_jl_sky3_5cb546a0d5456870b97d9424&utm_bothash=ma75_bot_367bc25a42d1935a6e04c90df3bd91be&q=每日任务－在雨林的神庙内冥想"
+     "v": "【每日任务－帮助老练音乐家】\n请旅人先查看接到的任务名称，然后在下方选择对应指南\n在圆梦村剧场找到老练音乐家　｜　老练音乐家在圆梦村剧场需要你的帮助\n小精灵提示：\n1、若旅人从未收集过该先祖，任务会显示为：在圆梦村剧场找到老练音乐家；\n2、若旅人之前已收集过该先祖，任务会显示为：老练音乐家在圆梦村剧场，需要你的帮助"
     },
     {
      "t": "head",
@@ -334,33 +336,6 @@
      "v": "存档源 sky-auto 表面上每天照常提交，但它的上游 KOL「Sky孤独旅人」已于 2026-06-30 宣布停止每日更新，图文从那天起就没变过。下面只保留与今日任务名称匹配的攻略和固定参考；季节蜡烛 / 大蜡烛 / 免费魔法等每天会变的内容已自动隐藏。"
     }
    ],
-   "src": "B"
-  },
-  {
-   "title": "🗂️ 任务二：收集30点烛火 0/30",
-   "blocks": [
-    {
-     "t": "note",
-     "v": "存档内容（素材 2026-06-30，与今日任务匹配），仅供参考"
-    },
-    {
-     "t": "text",
-     "v": "完成方法："
-    },
-    {
-     "t": "text",
-     "v": "1.领取任务"
-    },
-    {
-     "t": "text",
-     "v": "2.靠近地图当中 点燃的蜡烛上方的烛光/净化黑暗植物后的烛光 收集30滴即可"
-    },
-    {
-     "t": "img",
-     "v": "https://img.166.net/reunionpub/1_kol_20251006_904146ea633d7507084b73346fe1b462.png"
-    }
-   ],
-   "kind": "archive",
    "src": "B"
   },
   {
